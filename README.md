@@ -10,10 +10,11 @@ A Quarto template for creating professional research presentations in reveal.js 
 - [Pandoc](https://pandoc.org/installing.html)
 
 ## Installation
-```bash
+```
 git clone https://github.com/n8layman/bgsa_2025.git
 cd quarto-symposium-template
 ```
+
 ## License
 This template is released under **[MIT License](https://opensource.org/licenses/MIT)**:
 - ✅ Free to use in personal, academic, or commercial projects
