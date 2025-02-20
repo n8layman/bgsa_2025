@@ -1,0 +1,11 @@
+---
+title: "Adaptation"
+subtitle: "In Stochastic Environments"
+author:
+  - name: Nathan C. Layman
+    orcid: 0000-0003-2238-6584
+    email: n8.layman@gmail.com
+    affiliations: EcoHealth Alliance
+---
+
+![walk](/assets/img/randomwalker.webp){.lightbox}

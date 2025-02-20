@@ -1,0 +1,10 @@
+---
+title: "Outline"
+---
+
+Today we'll cover:
+
+- Introduction and background
+- Methodology
+- Key results
+- Conclusions and next steps

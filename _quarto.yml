@@ -1,9 +1,27 @@
 project:
   type: website
-  output-dir: docs  # Rendered files go here (for GitHub Pages)
+  output-dir: docs 
+
 format:
-  revealjs:
-    theme: light
+  clean-revealjs:
+    self-contained: true
     transition: slide
+    slide-number: c/t
+
+bibliography: references/refs.bib
+csl: references/nature.csl
+citeproc: true
+link-citations: true
+
 execute:
-  echo: false       # Suppress code output if needed
+  echo: true
+  warning: false
+
+render:
+  - index.qmd
+  - slides/gomulkiewicz.qmd
+  - slides/toc.qmd
+  - slides/adaptation.qmd 
+  - slides/ML.qmd
+  - slides/campanula.qmd
+  - slides/woah.qmd
