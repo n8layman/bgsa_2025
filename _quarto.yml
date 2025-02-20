@@ -1,0 +1,9 @@
+project:
+  type: website
+  output-dir: docs  # Rendered files go here (for GitHub Pages)
+format:
+  revealjs:
+    theme: light
+    transition: slide
+execute:
+  echo: false       # Suppress code output if needed
