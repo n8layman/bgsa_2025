@@ -1,4 +1,4 @@
-# WSU Graduate Research Symposium Presentation Template
+# 2025 WSU Graduate Research Symposium Presentation Template
 
 [![Quarto](https://img.shields.io/badge/Quarto-0.9%2B-blue)](https://quarto.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
