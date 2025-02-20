@@ -7,6 +7,10 @@ format:
     self-contained: true
     transition: slide
     slide-number: c/t
+    title-slide-attributes: 
+      data-background-image: assets/img/random_walk.png
+      data-background-position: right 10% center  # Adjust horizontal offset
+      data-background-size: 50% auto  # Width to 30% of slide, height auto-scaled
 
 bibliography: references/refs.bib
 csl: references/nature.csl

@@ -8,4 +8,3 @@ author:
     affiliations: EcoHealth Alliance
 ---
 
-![walk](/assets/img/randomwalker.webp){.lightbox}
