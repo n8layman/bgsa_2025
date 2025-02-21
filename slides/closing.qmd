@@ -1,35 +1,118 @@
 
+## Do I think science is a viable career path?
 
-## Science in 2025
+:::: {.fragment .fade-up}
+::: {.center-slide-text style="font-size: 400%;"}
+**Yes**
+:::
+::::
+
+## But sometimes if feels like
 
 ![](/assets/img/science_2025.jpg){width=50% fig-align="center"}
 
-## Do I think science is a viable career path?
-
-:::: {.center-slide-text}
-Yes.
+:::: {.notes}
+But it can sure feel like this getting into science right now right? For anyone colorblind I apologize - there are no overlapping colors between the legend and the diagram.
 ::::
 
 ## Adaptation in a Stochastic Research Environment
 
-Scientists are plastic! All of the skills we learn are highly transferable. 
+:::: {columns}
+::: {.column}
+![](/assets/img/transferable.png){width=50% fig-align="center"}
+::::
+::: {.column}
+Biologists are plastic!
+:::
+::::
+
+## For example
+
+**Almost all of my academic friends, have all worked in both academic and non-academic environments at some point**
+
+I know graduates who are currently:
+
+::: {.columns}
+::: {.column}
+- Program manager 
+- Database management
+- Data librarian  
+- Data scientist 
+- Mathematical Statistician
+:::
+
+::: {.column}
+- Researcher at the Smithsonian
+- IT / AWS specialist
+- Public health educator
+- Consultant
+- Environmental health professional
+- Biotechnology startup researcher
+:::
+:::
+
+## Adaptation in Stochastic _Research_ [Research]{style="color:red;"} Environments {.smaller}
+
+::: {.column-container}
+::: {.column-left}
+- **Bet-Hedging**
+    - **Definition**: Increasing variance in fitness at the expense of lower average fitness to ensure survival across unpredictable conditions.
+    - **Examples**: Plants producing seeds with staggered germination times.
+
+- **Life History Adjustments**
+    - **r-selection**: High fecundity with low parental investment (e.g., many offspring).
+    - **K-selection**: Fewer offspring with higher investment (e.g., longevity, parental care).
+    - **Dormancy**: Delayed development (e.g., seed banks).
+:::
+
+::: {.column-right}
+- **Boosting Genetic Diversity**
+    - **Role**: Buffers populations against fluctuations, ensuring some individuals thrive in any condition.
+    - **Mechanisms**: Variation of mutation rate, sexual reproduction, dispersal / gene flow.
+
+- **Phenotypic Plasticity**
+    - **Definition**: Non-parallel reaction norms among individuals with different genotypes in response to different environmental conditions. GxE interaction.
+    - **Examples**: Seasonal coat color changes in animals; metabolic flexibility in plants.
+:::
+:::
+
+## But what about being replaced by AI? 
+
+![](/assets/img/training.png){fig-align="center"}
+
+
+## But what about being replaced by AI? 
+
+![](/assets/img/known.png){fig-align="center"}
+
+
+## But what about being replaced by AI? 
+
+More importantly, an generative AI is a based on massively complicated statistical engines designed to answer the question, "what should I say next?"
+
+## But what about being replaced by AI? 
+
+:::: {layout="[[-1], [1], [-1]]" .center}
+|     **If you make a complicated model of nature,** 
+:::: 
+
+## But what about being replaced by AI? 
+
+:::: {layout="[[-1], [1], [-1]]" .center}
+|     If you make a complicated model of nature,
+|     [now you have two things you don't understand.]{style="color:red;"}
+|           -Alan Hastings
+:::: 
 
 ## But what about being replaced by AI?
 
 ![](/assets/img/Predictive-power-vs-interpretability-trade-off.png){width=70% fig-align="center"}
 
-## But what about being replaced by AI? {.larger}
+## But what about being replaced by AI? 
 
-If you make a complicated model of nature,
-
-## But what about being replaced by AI? {.larger}
-
-If you make a complicated model of nature,
-now you have two things you don’t understand.
-
--Alan Hastings
-
-## My friend's advice
+:::: {layout="[[-1], [1], [-1]]" .center}
+|     AI is a tool to help people answer questions. It's as useful as the p-value. But we are the people who [ask]{style="color:red;"} questions. 
+:::: 
 
 ## My advice
 **Doing science beyond grad school involves**

@@ -14,11 +14,11 @@
     "text": "Mathematical Geneology\n\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\n\n\n\nDick was not only an excellent scientist himself but also came from a long line of deep thinkers stretching back through Alan Hastings, Simon Levin and even all the way back in a direct line to Gauss. Once I graduated I worked as a postdoc in Scott Nuismers lab and from there went on to work with Dr. Noam Ross who was also trained by Alan Hastings. His loss is deeply felt."
   },
   {
-    "objectID": "index.html#richard-gomulkiewicz-richard",
-    "href": "index.html#richard-gomulkiewicz-richard",
+    "objectID": "index.html#outline",
+    "href": "index.html#outline",
     "title": "Adaptation",
-    "section": "Richard Gomulkiewicz {#richard}",
-    "text": "Richard Gomulkiewicz {#richard}"
+    "section": "Outline",
+    "text": "Outline\n\nAbout me\nAdaptation in stochastic environments\n\nSome of my ML projects\n\nCampanula range expansion (WSU)\nFine-scale zoonotic reservoirs (UIdaho)\nSurveillance sensitivity (EHA)\n\nClosing\nQuestions"
   },
   {
     "objectID": "index.html#me",
@@ -28,95 +28,11 @@
     "text": "About Me\n\n\n\n\n\n\n\n \n\n\nHello! My name is Nathan Layman. I am an alumnus of the busch lab and the School of Biological Sciences here at WSU. I graduated in May of 2018 and the title of my thesis was, “The Evolution Of Self-Compatibility In Non-Equilibrium Populations”. I studied the evolution of mating systems, in particular in Leavenworthia alabamica and Campanula americana."
   },
   {
-    "objectID": "index.html#eha",
-    "href": "index.html#eha",
-    "title": "Adaptation",
-    "section": "Generative AI-based Machine Learning",
-    "text": "Generative AI-based Machine Learning\nEcoHealth Alliance is a nonprofit dedicated to using science-based solutions to prevent pandemics and promote conservation\n\n\n\n\n\n\nEstablished in 1971, EcoHealth Alliance, then known as Wildlife Trust, is a global non-profit organization that uses rigorous and groundbreaking science to protect wildlife while safeguarding human health. We consist of a interdisciplinary team of scientists and scholars—from molecular biologists to field veterinarians, from bioinformaticians to behavioral risk specialists\nThe mission is to identify areas where human activity has increased the risk of zoonotic disease spillover, and the interventions necessary to prevent it."
-  },
-  {
-    "objectID": "index.html#buschlab",
-    "href": "index.html#buschlab",
-    "title": "Adaptation",
-    "section": "Busch Lab",
-    "text": "Busch Lab\n\n\n\n\n\n\n\n\n\n   \n\n\n\n\nBut I got my start here. At WSU as a member of the Busch Lab studying the evolution of mating systems in Leavenworthia alabamica."
-  },
-  {
-    "objectID": "index.html#outline",
-    "href": "index.html#outline",
-    "title": "Adaptation",
-    "section": "Outline",
-    "text": "Outline\n\nAbout me\nAdaptation in stochastic environments\n\nSome of my ML projects\n\nCampanula range expansion (WSU)\nFine-scale zoonotic reservoirs (UIdaho)\nSurveillance sensitivity (EHA)\n\nClosing\nQuestions"
-  },
-  {
-    "objectID": "slides/toc.html#outline",
-    "href": "slides/toc.html#outline",
-    "title": "",
-    "section": "Outline",
-    "text": "Outline\n\nAbout me\nAdaptation in stochastic environments\n\nSome of my ML projects\n\nCampanula range expansion (WSU)\nFine-scale zoonotic reservoirs (UIdaho)\nSurveillance sensitivity (EHA)\n\nClosing\nQuestions"
-  },
-  {
-    "objectID": "slides/toc.html#adaptation",
-    "href": "slides/toc.html#adaptation",
-    "title": "",
-    "section": "Adaptation in Stochastic Environments",
-    "text": "Adaptation in Stochastic Environments\n\n\n\nBet-Hedging\n\nDefinition: Reducing variance in fitness at the expense of lower average fitness to ensure survival across unpredictable conditions.\nExamples: Plants producing seeds with staggered germination times.\n\nLife History Adjustments\n\nr-selection: High fecundity with low parental investment (e.g., many offspring).\nK-selection: Fewer offspring with higher investment (e.g., longevity, parental care).\nDormancy: Delayed development (e.g., seed banks).\n\n\n\n\n\nBoosting Genetic Diversity\n\nRole: Buffers populations against fluctuations, ensuring some individuals thrive in any condition.\nMechanisms: Variation of mutation rate, sexual reproduction, dispersal / gene flow.\n\nPhenotypic Plasticity\n\nDefinition: Non-parallel reaction norms among individuals with different genotypes in response to different environmental conditions. GxE interaction.\nExamples: Seasonal coat color changes in animals; metabolic flexibility in plants."
-  },
-  {
-    "objectID": "slides/toc.html#machine_learning",
-    "href": "slides/toc.html#machine_learning",
-    "title": "",
-    "section": "Machine Learning",
-    "text": "Machine Learning\n\n\n\n\n\n\nNow we’re going to talk about machine learning. Each of the projects I’m going to talk about use machine learning in one context or another. Before we get there let’s review what the definition of machine learning is. At the core machine learning is statistical technique to learn patterns from data. It includes quite a lot of things like regression. It’s basically just statistics! But usually it’s lots of statistics."
-  },
-  {
     "objectID": "index.html#adaptation",
     "href": "index.html#adaptation",
     "title": "Adaptation",
     "section": "Adaptation in Stochastic Environments",
     "text": "Adaptation in Stochastic Environments\n\n\n\nBet-Hedging\n\nDefinition: Increasing variance in fitness at the expense of lower average fitness to ensure survival across unpredictable conditions.\nExamples: Plants producing seeds with staggered germination times.\n\nLife History Adjustments\n\nr-selection: High fecundity with low parental investment (e.g., many offspring).\nK-selection: Fewer offspring with higher investment (e.g., longevity, parental care).\nDormancy: Delayed development (e.g., seed banks).\n\n\n\n\n\nBoosting Genetic Diversity\n\nRole: Buffers populations against fluctuations, ensuring some individuals thrive in any condition.\nMechanisms: Variation of mutation rate, sexual reproduction, dispersal / gene flow.\n\nPhenotypic Plasticity\n\nDefinition: Non-parallel reaction norms among individuals with different genotypes in response to different environmental conditions. GxE interaction.\nExamples: Seasonal coat color changes in animals; metabolic flexibility in plants."
-  },
-  {
-    "objectID": "index.html#machine_learning",
-    "href": "index.html#machine_learning",
-    "title": "Adaptation",
-    "section": "Machine Learning",
-    "text": "Machine Learning\n\n\n\n\n\n\nNow we’re going to talk about machine learning. Each of the projects I’m going to talk about use machine learning in one context or another. Before we get there let’s review what the definition of machine learning is. At the core machine learning is statistical technique to learn patterns from data. It includes quite a lot of things like regression. It’s basically just statistics! But usually it’s lots of statistics."
-  },
-  {
-    "objectID": "slides/toc.html#evolutionary-adaptations",
-    "href": "slides/toc.html#evolutionary-adaptations",
-    "title": "",
-    "section": "Evolutionary Adaptations",
-    "text": "Evolutionary Adaptations"
-  },
-  {
-    "objectID": "slides/toc.html#evolutionary-adaptations-1",
-    "href": "slides/toc.html#evolutionary-adaptations-1",
-    "title": "",
-    "section": "Evolutionary Adaptations",
-    "text": "Evolutionary Adaptations\n\n\n\nBet-Hedging Definition: Reducing variance in fitness at the expense of lower average fitness to ensure survival across unpredictable conditions. Examples: Plants producing seeds with staggered germination times.\nLife History Adjustments r-selection: High fecundity with low parental investment (e.g., many offspring). K-selection: Fewer offspring with higher investment (e.g., longevity, parental care). Dormancy: Delayed development (e.g., seed banks).\n\n\n\n\nBoosting Genetic Diversity Role: Buffers populations against fluctuations, ensuring some individuals thrive in any condition. Mechanisms: Variation of mutation rate, sexual reproduction, dispersal / gene flow.\nPhenotypic Plasticity Definition: Non-parallel reaction norms among individuals with different genotypes in response to different environmental conditions. GxE interaction. Examples: Seasonal coat color changes in animals; metabolic flexibility in plants."
-  },
-  {
-    "objectID": "slides/toc.html#adaptation-in-stochastic-environments-adaptation",
-    "href": "slides/toc.html#adaptation-in-stochastic-environments-adaptation",
-    "title": "",
-    "section": "Adaptation in Stochastic Environments {#adaptation}",
-    "text": "Adaptation in Stochastic Environments {#adaptation}\n\n\n\nBet-Hedging Definition: Reducing variance in fitness at the expense of lower average fitness to ensure survival across unpredictable conditions. Examples: Plants producing seeds with staggered germination times.\nLife History Adjustments r-selection: High fecundity with low parental investment (e.g., many offspring). K-selection: Fewer offspring with higher investment (e.g., longevity, parental care). Dormancy: Delayed development (e.g., seed banks).\n\n\n\n\nBoosting Genetic Diversity Role: Buffers populations against fluctuations, ensuring some individuals thrive in any condition. Mechanisms: Variation of mutation rate, sexual reproduction, dispersal / gene flow.\nPhenotypic Plasticity Definition: Non-parallel reaction norms among individuals with different genotypes in response to different environmental conditions. GxE interaction. Examples: Seasonal coat color changes in animals; metabolic flexibility in plants."
-  },
-  {
-    "objectID": "slides/toc.html#fluctuating",
-    "href": "slides/toc.html#fluctuating",
-    "title": "",
-    "section": "These Hypotheses can Be Tested",
-    "text": "These Hypotheses can Be Tested\n“The fitness of a lineage in a fluctuating environment is the time average of its fitness over the sequence of static conditions it encounters.”1\n\n\n\n\n\n\nWe evolved the same barcoded library in five static conditions and five fluctuating pairs of these static conditions. We then isolated 889 mutants from the evolution experiments and performed pooled fitness assays in all environments, plus five additional fluctuating environments. B-C After correcting for mean population fitness, we estimate a mutant’s fitness from the slope of its log frequency. D The null hypothesis of additive fitness in a fluctuating environment is represented by the average of the slopes in panels B-C. Non-additive fitness might result if transitions in the fluctuating environment alter fitness of a mutant. E Non-additivity can be visualized by plotting observed fitness in a fluctuating environment vs. the null hypothesis. Mutants with non-additive fitness will appear above or below the one-to-one line."
-  },
-  {
-    "objectID": "slides/toc.html#section",
-    "href": "slides/toc.html#section",
-    "title": "",
-    "section": "",
-    "text": "1. Abreu, C. I., Mathur, S. & Petrov, D. A. Environmental memory alters the fitness effects of adaptive mutations in fluctuating environments. Nat. Ecol. Evol. 8, 1760–1775 (2024)."
   },
   {
     "objectID": "index.html#fluctuating",
@@ -126,32 +42,25 @@
     "text": "These Hypotheses can Be Tested\n“The fitness of a lineage in a fluctuating environment is the time average of its fitness over the sequence of static conditions it encounters.”1\n\n\n\n\n\n\nWe evolved the same barcoded library in five static conditions and five fluctuating pairs of these static conditions. We then isolated 889 mutants from the evolution experiments and performed pooled fitness assays in all environments, plus five additional fluctuating environments. B-C After correcting for mean population fitness, we estimate a mutant’s fitness from the slope of its log frequency. D The null hypothesis of additive fitness in a fluctuating environment is represented by the average of the slopes in panels B-C. Non-additive fitness might result if transitions in the fluctuating environment alter fitness of a mutant. E Non-additivity can be visualized by plotting observed fitness in a fluctuating environment vs. the null hypothesis. Mutants with non-additive fitness will appear above or below the one-to-one line."
   },
   {
-    "objectID": "index.html#section",
-    "href": "index.html#section",
+    "objectID": "index.html#different-kinds-of-mean",
+    "href": "index.html#different-kinds-of-mean",
     "title": "Adaptation",
-    "section": "",
-    "text": "I published two of my chapters in evolution and then went on to accept a post doc position later that year at the University of Idaho where I worked on the evolution of transmissible vaccines and got interested in disease forecasting. In 2021 I moved to my current position at EcoHealth alliance where I am currently a Senior Data Scientist."
+    "section": "Different Kinds of Mean",
+    "text": "Different Kinds of Mean\n\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\n\n\n\nBy the way when we deal with mean fitness over time or generations we tend to use geometric instead of arithmetic mean. To see why just think about what happens if the population fitness every dropped to zero. You’d still have a non-zero arithmetic mean even if though the population has gone extinct. Okay we’re going to transition away from stochastic environments for a minute but will return to it later."
   },
   {
-    "objectID": "slides/toc.html#me",
-    "href": "slides/toc.html#me",
-    "title": "",
-    "section": "About Me",
-    "text": "About Me\n\n\n\n\n\n\n\n \n\n\nHello! My name is Nathan Layman. I am an alumnus of the busch lab and the School of Biological Sciences here at WSU. I graduated in May of 2018 and the title of my thesis was, “The Evolution Of Self-Compatibility In Non-Equilibrium Populations”. I studied the evolution of mating systems, in particular in Leavenworthia alabamica and Campanula americana."
+    "objectID": "index.html#machine_learning",
+    "href": "index.html#machine_learning",
+    "title": "Adaptation",
+    "section": "Machine Learning",
+    "text": "Machine Learning\n\n\n\n\n\n\nNow we’re going to talk about machine learning. Each of the projects I’m going to talk about use machine learning in one context or another. Before we get there let’s review what the definition of machine learning is. At the core machine learning is statistical technique to learn patterns from data. It includes quite a lot of things like regression. It’s basically just statistics! But usually it’s lots of statistics."
   },
   {
-    "objectID": "slides/toc.html#llms",
-    "href": "slides/toc.html#llms",
-    "title": "",
-    "section": "Large Language Models",
-    "text": "Large Language Models"
-  },
-  {
-    "objectID": "slides/toc.html#transformers",
-    "href": "slides/toc.html#transformers",
-    "title": "",
-    "section": "Modeling Language",
-    "text": "Modeling Language\n\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\n\n\n\nhttps://medium.com/data-science-at-microsoft/how-large-language-models-work-91c362f5b78f\n\n\n\n\n\n1. Abreu, C. I., Mathur, S. & Petrov, D. A. Environmental memory alters the fitness effects of adaptive mutations in fluctuating environments. Nat. Ecol. Evol. 8, 1760–1775 (2024)."
+    "objectID": "index.html#xkcd",
+    "href": "index.html#xkcd",
+    "title": "Adaptation",
+    "section": "XKCD’s definition",
+    "text": "XKCD’s definition"
   },
   {
     "objectID": "index.html#llms",
@@ -168,102 +77,25 @@
     "text": "Modeling Language\n\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\n\n\n\nhttps://medium.com/data-science-at-microsoft/how-large-language-models-work-91c362f5b78f"
   },
   {
-    "objectID": "slides/toc.html#references",
-    "href": "slides/toc.html#references",
-    "title": "",
-    "section": "",
-    "text": "1. Abreu, C. I., Mathur, S. & Petrov, D. A. Environmental memory alters the fitness effects of adaptive mutations in fluctuating environments. Nat. Ecol. Evol. 8, 1760–1775 (2024)."
-  },
-  {
-    "objectID": "index.html#references",
-    "href": "index.html#references",
+    "objectID": "index.html#regression-based-machine-learning",
+    "href": "index.html#regression-based-machine-learning",
     "title": "Adaptation",
-    "section": "References",
-    "text": "References\n\n\n\n\n1. Abreu, C. I., Mathur, S. & Petrov, D. A. Environmental memory alters the fitness effects of adaptive mutations in fluctuating environments. Nat. Ecol. Evol. 8, 1760–1775 (2024).\n\n\n2. Prior, C. J., Layman, N. C., Koski, M. H., Galloway, L. F. & Busch, J. W. Westward range expansion from middle latitudes explains the mississippi river discontinuity in a forest herb of eastern north america. Molecular Ecology 29, 4473–4486 (2020).\n\n\n3. Rehmann, C. T., Small, S. T., Ralph, P. L. & Kern, A. D. Sweeps in space: Leveraging geographic data to identify beneficial alleles in anopheles gambiae. bioRxiv (2025) doi:10.1101/2025.02.07.637123.\n\n\n4. Layman, N. C. et al. Predicting the fine‐scale spatial distribution of zoonotic reservoirs using computer vision. Ecology Letters 26, 1974–1986 (2023)."
+    "section": "Regression-based Machine Learning",
+    "text": "Regression-based Machine Learning\nCan we reconstruct historical of range expansion routes?"
   },
   {
-    "objectID": "slides/toc.html#mean",
-    "href": "slides/toc.html#mean",
-    "title": "",
-    "section": "Geometric mean",
-    "text": "Geometric mean\n\n\n\n\n\n\nBy the way when we deal with mean fitness over time or generations we tend to use geometric instead of arithmetic mean. To see why just think about what happens if the population fitness every dropped to zero. You’d still have a non-zero arithmetic mean even if though the population has gone extinct. Okay we’re going to transition away from stochastic environments for a minute but will return to it later."
-  },
-  {
-    "objectID": "slides/toc.html#xkcd",
-    "href": "slides/toc.html#xkcd",
-    "title": "",
-    "section": "XKCD’s definition",
-    "text": "XKCD’s definition"
-  },
-  {
-    "objectID": "slides/toc.html#these-hypotheses-can-be-tested",
-    "href": "slides/toc.html#these-hypotheses-can-be-tested",
-    "title": "",
-    "section": "These Hypotheses can Be Tested",
-    "text": "These Hypotheses can Be Tested\n\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\n\n\n\nBy the way when we deal with mean fitness over time or generations we tend to use geometric instead of arithmetic mean. To see why just think about what happens if the population fitness every dropped to zero. You’d still have a non-zero arithmetic mean even if though the population has gone extinct. Okay we’re going to transition away from stochastic environments for a minute but will return to it later."
-  },
-  {
-    "objectID": "slides/toc.html#different-kinds-of-mean",
-    "href": "slides/toc.html#different-kinds-of-mean",
-    "title": "",
-    "section": "Different Kinds of Mean",
-    "text": "Different Kinds of Mean\n\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\n\n\n\nBy the way when we deal with mean fitness over time or generations we tend to use geometric instead of arithmetic mean. To see why just think about what happens if the population fitness every dropped to zero. You’d still have a non-zero arithmetic mean even if though the population has gone extinct. Okay we’re going to transition away from stochastic environments for a minute but will return to it later."
-  },
-  {
-    "objectID": "index.html#different-kinds-of-mean",
-    "href": "index.html#different-kinds-of-mean",
+    "objectID": "index.html#tdoa",
+    "href": "index.html#tdoa",
     "title": "Adaptation",
-    "section": "Different Kinds of Mean",
-    "text": "Different Kinds of Mean\n\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\n\n\n\nBy the way when we deal with mean fitness over time or generations we tend to use geometric instead of arithmetic mean. To see why just think about what happens if the population fitness every dropped to zero. You’d still have a non-zero arithmetic mean even if though the population has gone extinct. Okay we’re going to transition away from stochastic environments for a minute but will return to it later."
+    "section": "Time Distance Of Arrival (TDOA)",
+    "text": "Time Distance Of Arrival (TDOA)\n\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\n\n\n\nIn species where a range expansion has recently occurred, populations farther from the expansion’s starting point accumulate are expected to accumulate more derived alleles. This is a result of the repeated bottlenecks associated with This creates a spatial pattern where derived allele frequencies increase linearly with distance from the origin.\n\n\nWestward range expansion from middle latitudes explains the Mississippi River discontinuity in a forest herb of eastern North America2"
   },
   {
-    "objectID": "index.html#xkcd",
-    "href": "index.html#xkcd",
+    "objectID": "index.html#identifying-the-refugia",
+    "href": "index.html#identifying-the-refugia",
     "title": "Adaptation",
-    "section": "XKCD’s definition",
-    "text": "XKCD’s definition"
-  },
-  {
-    "objectID": "slides/uidaho.html#eha",
-    "href": "slides/uidaho.html#eha",
-    "title": "",
-    "section": "University of Idaho",
-    "text": "University of Idaho\n\nPredicting the fine-scale spatial distribution of zoonotic reservoirs using computer vision"
-  },
-  {
-    "objectID": "slides/uidaho.html#landcover",
-    "href": "slides/uidaho.html#landcover",
-    "title": "",
-    "section": "Land Cover Classification",
-    "text": "Land Cover Classification\n\n\n\n\n\n\nPredicting the fine-scale spatial distribution of zoonotic reservoirs using computer vision1\n\n\nWe developed a weakly supervised machine learning framework capable of segmentating land cover and classifying buildings using aerial photographs."
-  },
-  {
-    "objectID": "slides/uidaho.html#reservoir",
-    "href": "slides/uidaho.html#reservoir",
-    "title": "",
-    "section": "Zoonotic Reservoirs",
-    "text": "Zoonotic Reservoirs\n\n\n\n\n\n\nPredicting the fine-scale spatial distribution of zoonotic reservoirs using computer vision1\n\n\nThe idea was to use to combine these fine-scale resolution predictors with trapping data. That could let us use another machine learning technique, boosted regression trees, to identify where in the villages the zoonotic reservoir was most likely to be found. Which could be useful for coming up within mitigation strategies or evaluating the drivers of disease risk."
-  },
-  {
-    "objectID": "slides/uidaho.html#reservoir_features",
-    "href": "slides/uidaho.html#reservoir_features",
-    "title": "",
-    "section": "Fine-scale Predictors",
-    "text": "Fine-scale Predictors\n\n\n\n\n\n\nPredicting the fine-scale spatial distribution of zoonotic reservoirs using computer vision1\n\n\nA few interesting things we found is that mastomys natalensis, at least in these three villages, tend to be found close to buildings. Less than 100 meters. The building type didn’t seem to matter much. We also noticed an association with precipitation 5-6 months prior - something shown previously to result from birth pulses following the rainy season."
-  },
-  {
-    "objectID": "slides/uidaho.html#references",
-    "href": "slides/uidaho.html#references",
-    "title": "",
-    "section": "",
-    "text": "1. Layman, N. C. et al. Predicting the fine‐scale spatial distribution of zoonotic reservoirs using computer vision. Ecology Letters 26, 1974–1986 (2023)."
-  },
-  {
-    "objectID": "slides/uidaho.html#uidaho",
-    "href": "slides/uidaho.html#uidaho",
-    "title": "",
-    "section": "Uidaho",
-    "text": "Uidaho"
+    "section": "Identifying the refugia",
+    "text": "Identifying the refugia\n\n\n\n\n\n\nSweeps in space: leveraging geographic data to identify beneficial alleles in Anopheles gambiae3\n\n\nThe spatial pattern of genetic diversity best fit the nested origins model, which implies a primarily westward model of stepping-stone colonization. Which is suprising because it is commonly thought that expansion post glacial retreat happened south to north."
   },
   {
     "objectID": "index.html#uidaho",
@@ -294,312 +126,11 @@
     "text": "Fine-scale Predictors\n\n\n\n\n\n\nPredicting the fine-scale spatial distribution of zoonotic reservoirs using computer vision4\n\n\nA few interesting things we found is that mastomys natalensis, at least in these three villages, tend to be found close to buildings. Less than 100 meters. The building type didn’t seem to matter much. We also noticed an association with precipitation 5-6 months prior - something shown previously to result from birth pulses following the rainy season."
   },
   {
-    "objectID": "slides/wsu.html#wsu",
-    "href": "slides/wsu.html#wsu",
-    "title": "",
-    "section": "WSU",
-    "text": "WSU"
-  },
-  {
-    "objectID": "slides/wsu.html#tdoa",
-    "href": "slides/wsu.html#tdoa",
-    "title": "",
-    "section": "TDOA",
-    "text": "TDOA\n\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\n\n\n\nIn species where a range expansion has recently occurred, populations farther from the expansion’s starting point accumulate are expected to accumulate more derived alleles. This is a result of the repeated bottlenecks associated with This creates a spatial pattern where derived allele frequencies increase linearly with distance from the origin.\n\n\nWestward range expansion from middle latitudes explains the Mississippi River discontinuity in a forest herb of eastern North America1"
-  },
-  {
-    "objectID": "slides/wsu.html#identifying-the-refugia",
-    "href": "slides/wsu.html#identifying-the-refugia",
-    "title": "",
-    "section": "Identifying the refugia",
-    "text": "Identifying the refugia\n\n\n\n\n\n\nSweeps in space: leveraging geographic data to identify beneficial alleles in Anopheles gambiae2"
-  },
-  {
-    "objectID": "slides/wsu.html#missisipi-river-disconnect",
-    "href": "slides/wsu.html#missisipi-river-disconnect",
-    "title": "",
-    "section": "Missisipi River Disconnect",
-    "text": "Missisipi River Disconnect\n\nThe spatial pattern of genetic diversity best fit the nested origins model, which implies a primarily westward model of stepping-stone colonization. Which is suprising because it is commonly thought that expansion post glacial retreat happened south to north.\n\n\n\n\n\n1. Prior, C. J., Layman, N. C., Koski, M. H., Galloway, L. F. & Busch, J. W. Westward range expansion from middle latitudes explains the mississippi river discontinuity in a forest herb of eastern north america. Molecular Ecology 29, 4473–4486 (2020).\n\n\n2. Rehmann, C. T., Small, S. T., Ralph, P. L. & Kern, A. D. Sweeps in space: Leveraging geographic data to identify beneficial alleles in anopheles gambiae. bioRxiv (2025) doi:10.1101/2025.02.07.637123."
-  },
-  {
-    "objectID": "slides/wsu.html#regression-based-machine-learning",
-    "href": "slides/wsu.html#regression-based-machine-learning",
-    "title": "",
-    "section": "Regression-based Machine Learning",
-    "text": "Regression-based Machine Learning"
-  },
-  {
-    "objectID": "index.html#regression-based-machine-learning",
-    "href": "index.html#regression-based-machine-learning",
+    "objectID": "index.html#eha",
+    "href": "index.html#eha",
     "title": "Adaptation",
-    "section": "Regression-based Machine Learning",
-    "text": "Regression-based Machine Learning\nCan we reconstruct historical of range expansion routes?"
-  },
-  {
-    "objectID": "index.html#tdoa",
-    "href": "index.html#tdoa",
-    "title": "Adaptation",
-    "section": "Time Distance Of Arrival (TDOA)",
-    "text": "Time Distance Of Arrival (TDOA)\n\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\n\n\n\nIn species where a range expansion has recently occurred, populations farther from the expansion’s starting point accumulate are expected to accumulate more derived alleles. This is a result of the repeated bottlenecks associated with This creates a spatial pattern where derived allele frequencies increase linearly with distance from the origin.\n\n\nWestward range expansion from middle latitudes explains the Mississippi River discontinuity in a forest herb of eastern North America2"
-  },
-  {
-    "objectID": "index.html#identifying-the-refugia",
-    "href": "index.html#identifying-the-refugia",
-    "title": "Adaptation",
-    "section": "Identifying the refugia",
-    "text": "Identifying the refugia\n\n\n\n\n\n\nSweeps in space: leveraging geographic data to identify beneficial alleles in Anopheles gambiae3\n\n\nThe spatial pattern of genetic diversity best fit the nested origins model, which implies a primarily westward model of stepping-stone colonization. Which is suprising because it is commonly thought that expansion post glacial retreat happened south to north."
-  },
-  {
-    "objectID": "index.html#missisipi-river-disconnect",
-    "href": "index.html#missisipi-river-disconnect",
-    "title": "Adaptation",
-    "section": "Missisipi River Disconnect",
-    "text": "Missisipi River Disconnect\n\nThe spatial pattern of genetic diversity best fit the nested origins model, which implies a primarily westward model of stepping-stone colonization. Which is suprising because it is commonly thought that expansion post glacial retreat happened south to north."
-  },
-  {
-    "objectID": "slides/eha.html#eha",
-    "href": "slides/eha.html#eha",
-    "title": "",
     "section": "Generative AI-based Machine Learning",
     "text": "Generative AI-based Machine Learning\nEcoHealth Alliance is a nonprofit dedicated to using science-based solutions to prevent pandemics and promote conservation\n\n\n\n\n\n\nEstablished in 1971, EcoHealth Alliance, then known as Wildlife Trust, is a global non-profit organization that uses rigorous and groundbreaking science to protect wildlife while safeguarding human health. We consist of a interdisciplinary team of scientists and scholars—from molecular biologists to field veterinarians, from bioinformaticians to behavioral risk specialists\nThe mission is to identify areas where human activity has increased the risk of zoonotic disease spillover, and the interventions necessary to prevent it."
-  },
-  {
-    "objectID": "slides/eha.html#one-health",
-    "href": "slides/eha.html#one-health",
-    "title": "",
-    "section": "One Health",
-    "text": "One Health"
-  },
-  {
-    "objectID": "slides/eha.html#computational-science-team",
-    "href": "slides/eha.html#computational-science-team",
-    "title": "",
-    "section": "Computational Science Team",
-    "text": "Computational Science Team"
-  },
-  {
-    "objectID": "index.html#one-health",
-    "href": "index.html#one-health",
-    "title": "Adaptation",
-    "section": "One Health",
-    "text": "One Health"
-  },
-  {
-    "objectID": "index.html#computational-science-team",
-    "href": "index.html#computational-science-team",
-    "title": "Adaptation",
-    "section": "Computational Science Team",
-    "text": "Computational Science Team"
-  },
-  {
-    "objectID": "slides/closing.html#science-in-2025",
-    "href": "slides/closing.html#science-in-2025",
-    "title": "",
-    "section": "Science in 2025",
-    "text": "Science in 2025"
-  },
-  {
-    "objectID": "slides/closing.html#what-about-ai",
-    "href": "slides/closing.html#what-about-ai",
-    "title": "",
-    "section": "What about AI?",
-    "text": "What about AI?"
-  },
-  {
-    "objectID": "slides/closing.html#what-about-politics",
-    "href": "slides/closing.html#what-about-politics",
-    "title": "",
-    "section": "What about politics?",
-    "text": "What about politics?"
-  },
-  {
-    "objectID": "slides/closing.html#adaptation-in-a-stochastic-research-environment",
-    "href": "slides/closing.html#adaptation-in-a-stochastic-research-environment",
-    "title": "",
-    "section": "Adaptation in a Stochastic Research Environment",
-    "text": "Adaptation in a Stochastic Research Environment\nScientists are plastic! All of the skills we learn are highly transferable."
-  },
-  {
-    "objectID": "slides/closing.html#questions",
-    "href": "slides/closing.html#questions",
-    "title": "",
-    "section": "Questions",
-    "text": "Questions"
-  },
-  {
-    "objectID": "slides/closing.html#references",
-    "href": "slides/closing.html#references",
-    "title": "",
-    "section": "References",
-    "text": "References"
-  },
-  {
-    "objectID": "index.html#woah",
-    "href": "index.html#woah",
-    "title": "Adaptation",
-    "section": "WOAH",
-    "text": "WOAH"
-  },
-  {
-    "objectID": "index.html#automating-a-lit-search",
-    "href": "index.html#automating-a-lit-search",
-    "title": "Adaptation",
-    "section": "Automating a Lit Search",
-    "text": "Automating a Lit Search\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nQuantifying Underreporting in Wildlife Disease Surveillance"
-  },
-  {
-    "objectID": "index.html#science-in-2025",
-    "href": "index.html#science-in-2025",
-    "title": "Adaptation",
-    "section": "Science in 2025",
-    "text": "Science in 2025"
-  },
-  {
-    "objectID": "index.html#do-i-think-scinece-is-a-viable-careero-path",
-    "href": "index.html#do-i-think-scinece-is-a-viable-careero-path",
-    "title": "Adaptation",
-    "section": "Do I think scinece is a viable careero path?",
-    "text": "Do I think scinece is a viable careero path?\nYes."
-  },
-  {
-    "objectID": "index.html#but-what-about-being-replaced-by-ai",
-    "href": "index.html#but-what-about-being-replaced-by-ai",
-    "title": "Adaptation",
-    "section": "But what about being replaced by AI?",
-    "text": "But what about being replaced by AI?"
-  },
-  {
-    "objectID": "index.html#adaptation-in-a-stochastic-research-environment",
-    "href": "index.html#adaptation-in-a-stochastic-research-environment",
-    "title": "Adaptation",
-    "section": "Adaptation in a Stochastic Research Environment",
-    "text": "Adaptation in a Stochastic Research Environment\nScientists are plastic! All of the skills we learn are highly transferable."
-  },
-  {
-    "objectID": "index.html#advice",
-    "href": "index.html#advice",
-    "title": "Adaptation",
-    "section": "Advice",
-    "text": "Advice\nDoing science beyond grad school involves\n\nLeveraging your network\nManaging resources including time and money\nLooking to the future\n\nWhy aren’t you doing that now?"
-  },
-  {
-    "objectID": "index.html#questions",
-    "href": "index.html#questions",
-    "title": "Adaptation",
-    "section": "Questions",
-    "text": "Questions"
-  },
-  {
-    "objectID": "slides/closing.html#do-i-think-scinece-is-a-viable-careero-path",
-    "href": "slides/closing.html#do-i-think-scinece-is-a-viable-careero-path",
-    "title": "",
-    "section": "Do I think scinece is a viable careero path?",
-    "text": "Do I think scinece is a viable careero path?\nYes."
-  },
-  {
-    "objectID": "slides/closing.html#but-what-about-being-replaced-by-ai",
-    "href": "slides/closing.html#but-what-about-being-replaced-by-ai",
-    "title": "",
-    "section": "But what about being replaced by AI?",
-    "text": "But what about being replaced by AI?"
-  },
-  {
-    "objectID": "slides/closing.html#advice",
-    "href": "slides/closing.html#advice",
-    "title": "",
-    "section": "Advice",
-    "text": "Advice"
-  },
-  {
-    "objectID": "slides/eha.html#woah",
-    "href": "slides/eha.html#woah",
-    "title": "",
-    "section": "WOAH",
-    "text": "WOAH\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nQuantifying Underreporting in Wildlife Disease Surveillance"
-  },
-  {
-    "objectID": "slides/eha.html#automating-a-lit-search",
-    "href": "slides/eha.html#automating-a-lit-search",
-    "title": "",
-    "section": "Automating a Lit Search",
-    "text": "Automating a Lit Search\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nQuantifying Underreporting in Wildlife Disease Surveillance"
-  },
-  {
-    "objectID": "slides/eha.html#world-organisation-for-animal-health-woah",
-    "href": "slides/eha.html#world-organisation-for-animal-health-woah",
-    "title": "",
-    "section": "World Organisation for Animal Health (WOAH)",
-    "text": "World Organisation for Animal Health (WOAH)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nQuantifying Underreporting in Wildlife Disease Surveillance"
-  },
-  {
-    "objectID": "slides/eha.html#correcting-for-llm-errors-using-simulation-extrapolation-simex",
-    "href": "slides/eha.html#correcting-for-llm-errors-using-simulation-extrapolation-simex",
-    "title": "",
-    "section": "Correcting for LLM errors using simulation extrapolation (SIMEX)",
-    "text": "Correcting for LLM errors using simulation extrapolation (SIMEX)"
-  },
-  {
-    "objectID": "slides/eha.html#automating-a-lit-search-1",
-    "href": "slides/eha.html#automating-a-lit-search-1",
-    "title": "",
-    "section": "Automating a Lit Search",
-    "text": "Automating a Lit Search\n\n\n\n\n\n\nQuantifying Underreporting in Wildlife Disease Surveillance"
-  },
-  {
-    "objectID": "slides/closing.html#do-i-think-science-is-a-viable-careero-path",
-    "href": "slides/closing.html#do-i-think-science-is-a-viable-careero-path",
-    "title": "",
-    "section": "Do I think science is a viable careero path?",
-    "text": "Do I think science is a viable careero path?\nYes."
-  },
-  {
-    "objectID": "slides/closing.html#do-i-think-science-is-a-viable-career-path",
-    "href": "slides/closing.html#do-i-think-science-is-a-viable-career-path",
-    "title": "",
-    "section": "Do I think science is a viable career path?",
-    "text": "Do I think science is a viable career path?\n\nYes."
-  },
-  {
-    "objectID": "slides/closing.html#advice-1",
-    "href": "slides/closing.html#advice-1",
-    "title": "",
-    "section": "Advice",
-    "text": "Advice"
-  },
-  {
-    "objectID": "slides/closing.html#advice-2",
-    "href": "slides/closing.html#advice-2",
-    "title": "",
-    "section": "Advice",
-    "text": "Advice\nDoing science beyond grad school involves\n\nLeveraging your network\nManaging resources\nLooking to the future\n\nWhy aren’t you doing that now?"
-  },
-  {
-    "objectID": "slides/closing.html#but-what-about-being-replaced-by-ai-1",
-    "href": "slides/closing.html#but-what-about-being-replaced-by-ai-1",
-    "title": "",
-    "section": "But what about being replaced by AI?",
-    "text": "But what about being replaced by AI?\nIf you make a complicated model of nature,"
-  },
-  {
-    "objectID": "slides/closing.html#my-friends-advice",
-    "href": "slides/closing.html#my-friends-advice",
-    "title": "",
-    "section": "My friend’s advice",
-    "text": "My friend’s advice"
-  },
-  {
-    "objectID": "slides/closing.html#my-advice",
-    "href": "slides/closing.html#my-advice",
-    "title": "",
-    "section": "My advice",
-    "text": "My advice\nDoing science beyond grad school involves\n\nLeveraging your network\nManaging resources\nLooking to the future\n\nWhy aren’t you doing that now?"
-  },
-  {
-    "objectID": "slides/closing.html#but-what-about-being-replaced-by-ai-2",
-    "href": "slides/closing.html#but-what-about-being-replaced-by-ai-2",
-    "title": "",
-    "section": "But what about being replaced by AI?",
-    "text": "But what about being replaced by AI?\nIf you make a complicated model of nature, now you have two things you don’t understand.\n-Alan Hastings"
   },
   {
     "objectID": "index.html#world-organisation-for-animal-health-woah",
@@ -607,6 +138,13 @@
     "title": "Adaptation",
     "section": "World Organisation for Animal Health (WOAH)",
     "text": "World Organisation for Animal Health (WOAH)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nQuantifying Underreporting in Wildlife Disease Surveillance"
+  },
+  {
+    "objectID": "index.html#automating-a-lit-search",
+    "href": "index.html#automating-a-lit-search",
+    "title": "Adaptation",
+    "section": "Automating a Lit Search",
+    "text": "Automating a Lit Search\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nQuantifying Underreporting in Wildlife Disease Surveillance"
   },
   {
     "objectID": "index.html#automating-a-lit-search-1",
@@ -623,25 +161,46 @@
     "text": "Correcting for LLM errors using simulation extrapolation (SIMEX)"
   },
   {
+    "objectID": "index.html#science-in-2025",
+    "href": "index.html#science-in-2025",
+    "title": "Adaptation",
+    "section": "Science in 2025",
+    "text": "Science in 2025"
+  },
+  {
     "objectID": "index.html#do-i-think-science-is-a-viable-career-path",
     "href": "index.html#do-i-think-science-is-a-viable-career-path",
     "title": "Adaptation",
     "section": "Do I think science is a viable career path?",
-    "text": "Do I think science is a viable career path?\n\nYes."
+    "text": "Do I think science is a viable career path?\n\n\nYes"
+  },
+  {
+    "objectID": "index.html#adaptation-in-a-stochastic-research-environment",
+    "href": "index.html#adaptation-in-a-stochastic-research-environment",
+    "title": "Adaptation",
+    "section": "Adaptation in a Stochastic Research Environment",
+    "text": "Adaptation in a Stochastic Research Environment\n\n\n\n\n\n\n\n\nBiologists are plastic!"
+  },
+  {
+    "objectID": "index.html#but-what-about-being-replaced-by-ai",
+    "href": "index.html#but-what-about-being-replaced-by-ai",
+    "title": "Adaptation",
+    "section": "But what about being replaced by AI?",
+    "text": "But what about being replaced by AI?"
   },
   {
     "objectID": "index.html#but-what-about-being-replaced-by-ai-1",
     "href": "index.html#but-what-about-being-replaced-by-ai-1",
     "title": "Adaptation",
     "section": "But what about being replaced by AI?",
-    "text": "But what about being replaced by AI?\nIf you make a complicated model of nature,"
+    "text": "But what about being replaced by AI?"
   },
   {
     "objectID": "index.html#but-what-about-being-replaced-by-ai-2",
     "href": "index.html#but-what-about-being-replaced-by-ai-2",
     "title": "Adaptation",
     "section": "But what about being replaced by AI?",
-    "text": "But what about being replaced by AI?\nIf you make a complicated model of nature, now you have two things you don’t understand.\n-Alan Hastings"
+    "text": "But what about being replaced by AI?\nMore importantly, an generative AI is a based on massively complicated statistical engines designed to answer the question, “what should I say next?”"
   },
   {
     "objectID": "index.html#my-friends-advice",
@@ -658,17 +217,220 @@
     "text": "My advice\nDoing science beyond grad school involves\n\nLeveraging your network\nManaging resources\nLooking to the future\n\nWhy aren’t you doing that now?"
   },
   {
-    "objectID": "slides/closing.html#but-what-about-being-replaced-by-ai-larger",
-    "href": "slides/closing.html#but-what-about-being-replaced-by-ai-larger",
-    "title": "",
-    "section": "But what about being replaced by AI? {larger}",
-    "text": "But what about being replaced by AI? {larger}\nIf you make a complicated model of nature,"
+    "objectID": "index.html#references",
+    "href": "index.html#references",
+    "title": "Adaptation",
+    "section": "References",
+    "text": "References\n\n\n\n\n1. Abreu, C. I., Mathur, S. & Petrov, D. A. Environmental memory alters the fitness effects of adaptive mutations in fluctuating environments. Nat. Ecol. Evol. 8, 1760–1775 (2024).\n\n\n2. Prior, C. J., Layman, N. C., Koski, M. H., Galloway, L. F. & Busch, J. W. Westward range expansion from middle latitudes explains the mississippi river discontinuity in a forest herb of eastern north america. Molecular Ecology 29, 4473–4486 (2020).\n\n\n3. Rehmann, C. T., Small, S. T., Ralph, P. L. & Kern, A. D. Sweeps in space: Leveraging geographic data to identify beneficial alleles in anopheles gambiae. bioRxiv (2025) doi:10.1101/2025.02.07.637123.\n\n\n4. Layman, N. C. et al. Predicting the fine‐scale spatial distribution of zoonotic reservoirs using computer vision. Ecology Letters 26, 1974–1986 (2023)."
   },
   {
-    "objectID": "slides/closing.html#but-what-about-being-replaced-by-ai-larger-1",
-    "href": "slides/closing.html#but-what-about-being-replaced-by-ai-larger-1",
+    "objectID": "slides/closing.html#science-in-2025",
+    "href": "slides/closing.html#science-in-2025",
     "title": "",
-    "section": "But what about being replaced by AI? {larger}",
-    "text": "But what about being replaced by AI? {larger}\nIf you make a complicated model of nature, now you have two things you don’t understand.\n-Alan Hastings"
+    "section": "Science in 2025",
+    "text": "Science in 2025\n\n\n\n\n\n\nBut it can sure feel like this getting into science right now right? For anyone colorblind I apologize - there are no overlapping colors between the legend and the diagram."
+  },
+  {
+    "objectID": "slides/closing.html#do-i-think-science-is-a-viable-career-path",
+    "href": "slides/closing.html#do-i-think-science-is-a-viable-career-path",
+    "title": "",
+    "section": "Do I think science is a viable career path?",
+    "text": "Do I think science is a viable career path?\n\n\nYes"
+  },
+  {
+    "objectID": "slides/closing.html#adaptation-in-a-stochastic-research-environment",
+    "href": "slides/closing.html#adaptation-in-a-stochastic-research-environment",
+    "title": "",
+    "section": "Adaptation in a Stochastic Research Environment",
+    "text": "Adaptation in a Stochastic Research Environment\n\n\n\n\n\n\n\n\nBiologists are plastic!"
+  },
+  {
+    "objectID": "slides/closing.html#but-what-about-being-replaced-by-ai",
+    "href": "slides/closing.html#but-what-about-being-replaced-by-ai",
+    "title": "",
+    "section": "But what about being replaced by AI?",
+    "text": "But what about being replaced by AI?"
+  },
+  {
+    "objectID": "slides/closing.html#section",
+    "href": "slides/closing.html#section",
+    "title": "",
+    "section": "",
+    "text": "If you make a complicated model of nature,"
+  },
+  {
+    "objectID": "slides/closing.html#section-1",
+    "href": "slides/closing.html#section-1",
+    "title": "",
+    "section": "",
+    "text": "If you make a complicated model of nature,now you have two things you don’t understand. ## If you make a complicated model of nature,now you have two things you don’t understand. -Alan Hastings"
+  },
+  {
+    "objectID": "slides/closing.html#section-2",
+    "href": "slides/closing.html#section-2",
+    "title": "",
+    "section": "",
+    "text": "If you make a complicated model of nature,\nnow you have two things you don’t understand.\n-Alan Hastings"
+  },
+  {
+    "objectID": "slides/closing.html#my-friends-advice",
+    "href": "slides/closing.html#my-friends-advice",
+    "title": "",
+    "section": "My friend’s advice",
+    "text": "My friend’s advice"
+  },
+  {
+    "objectID": "slides/closing.html#my-advice",
+    "href": "slides/closing.html#my-advice",
+    "title": "",
+    "section": "My advice",
+    "text": "My advice\nDoing science beyond grad school involves\n\nLeveraging your network\nManaging resources\nLooking to the future\n\nWhy aren’t you doing that now?"
+  },
+  {
+    "objectID": "slides/closing.html#references",
+    "href": "slides/closing.html#references",
+    "title": "",
+    "section": "References",
+    "text": "References"
+  },
+  {
+    "objectID": "slides/closing.html#but-what-about-being-replaced-by-ai-1",
+    "href": "slides/closing.html#but-what-about-being-replaced-by-ai-1",
+    "title": "",
+    "section": "But what about being replaced by AI?",
+    "text": "But what about being replaced by AI?"
+  },
+  {
+    "objectID": "slides/closing.html#but-what-about-being-replaced-by-ai-2",
+    "href": "slides/closing.html#but-what-about-being-replaced-by-ai-2",
+    "title": "",
+    "section": "But what about being replaced by AI?",
+    "text": "But what about being replaced by AI?\nMore importantly, an generative AI is a based on massively complicated statistical engines designed to answer the question, “what should I say next?”"
+  },
+  {
+    "objectID": "slides/closing.html#but-what-about-being-replaced-by-ai-3",
+    "href": "slides/closing.html#but-what-about-being-replaced-by-ai-3",
+    "title": "",
+    "section": "But what about being replaced by AI?",
+    "text": "But what about being replaced by AI?\n\n\n\n\n\n\n \n\n\n\n\n    If you make a complicated model of nature,"
+  },
+  {
+    "objectID": "slides/closing.html#but-what-about-being-replaced-by-ai-4",
+    "href": "slides/closing.html#but-what-about-being-replaced-by-ai-4",
+    "title": "",
+    "section": "But what about being replaced by AI?",
+    "text": "But what about being replaced by AI?\n\n\n\n\n\n\n \n\n\n\n\n    If you make a complicated model of nature,\n    now you have two things you don’t understand.\n          -Alan Hastings"
+  },
+  {
+    "objectID": "slides/closing.html#but-what-about-being-replaced-by-ai-5",
+    "href": "slides/closing.html#but-what-about-being-replaced-by-ai-5",
+    "title": "",
+    "section": "But what about being replaced by AI?",
+    "text": "But what about being replaced by AI?"
+  },
+  {
+    "objectID": "slides/closing.html#but-what-about-being-replaced-by-ai-6",
+    "href": "slides/closing.html#but-what-about-being-replaced-by-ai-6",
+    "title": "",
+    "section": "But what about being replaced by AI?",
+    "text": "But what about being replaced by AI?\n\n\n\n\n\n\n \n\n\n\n\n    AI is a tool to help people answer questions. It’s as useful as the p-value. But we are the people who ask questions."
+  },
+  {
+    "objectID": "slides/closing.html#adaptation",
+    "href": "slides/closing.html#adaptation",
+    "title": "",
+    "section": "Adaptation in Stochastic Environments",
+    "text": "Adaptation in Stochastic Environments\n\n\n\nBet-Hedging\n\nDefinition: Increasing variance in fitness at the expense of lower average fitness to ensure survival across unpredictable conditions.\nExamples: Plants producing seeds with staggered germination times.\n\nLife History Adjustments\n\nr-selection: High fecundity with low parental investment (e.g., many offspring).\nK-selection: Fewer offspring with higher investment (e.g., longevity, parental care).\nDormancy: Delayed development (e.g., seed banks).\n\n\n\n\n\nBoosting Genetic Diversity\n\nRole: Buffers populations against fluctuations, ensuring some individuals thrive in any condition.\nMechanisms: Variation of mutation rate, sexual reproduction, dispersal / gene flow.\n\nPhenotypic Plasticity\n\nDefinition: Non-parallel reaction norms among individuals with different genotypes in response to different environmental conditions. GxE interaction.\nExamples: Seasonal coat color changes in animals; metabolic flexibility in plants."
+  },
+  {
+    "objectID": "slides/closing.html#some-of-my-friends",
+    "href": "slides/closing.html#some-of-my-friends",
+    "title": "",
+    "section": "Some of my friends",
+    "text": "Some of my friends\nMost of my friends have worked in Academic, non-profit, and industry at some point\n\nProgram manager for a firm that purchases land for Google’s data farms\n\nDatabase management for bat-interactions\nData librarian\n\nMultiple data scientists\n\nMathematical Statistician\nResearcher at the Smithsonian\nIT / AWS specialist"
+  },
+  {
+    "objectID": "slides/closing.html#adaptation-in-stochastic-research-environments",
+    "href": "slides/closing.html#adaptation-in-stochastic-research-environments",
+    "title": "",
+    "section": "Adaptation in Stochastic Research Environments",
+    "text": "Adaptation in Stochastic Research Environments\n\n\n\nBet-Hedging\n\nDefinition: Increasing variance in fitness at the expense of lower average fitness to ensure survival across unpredictable conditions.\nExamples: Plants producing seeds with staggered germination times.\n\nLife History Adjustments\n\nr-selection: High fecundity with low parental investment (e.g., many offspring).\nK-selection: Fewer offspring with higher investment (e.g., longevity, parental care).\nDormancy: Delayed development (e.g., seed banks).\n\n\n\n\n\nBoosting Genetic Diversity\n\nRole: Buffers populations against fluctuations, ensuring some individuals thrive in any condition.\nMechanisms: Variation of mutation rate, sexual reproduction, dispersal / gene flow.\n\nPhenotypic Plasticity\n\nDefinition: Non-parallel reaction norms among individuals with different genotypes in response to different environmental conditions. GxE interaction.\nExamples: Seasonal coat color changes in animals; metabolic flexibility in plants."
+  },
+  {
+    "objectID": "slides/closing.html#adaptation-in-stochastic-research-research-environments",
+    "href": "slides/closing.html#adaptation-in-stochastic-research-research-environments",
+    "title": "",
+    "section": "Adaptation in Stochastic Research Research Environments",
+    "text": "Adaptation in Stochastic Research Research Environments\n\n\n\nBet-Hedging\n\nDefinition: Increasing variance in fitness at the expense of lower average fitness to ensure survival across unpredictable conditions.\nExamples: Plants producing seeds with staggered germination times.\n\nLife History Adjustments\n\nr-selection: High fecundity with low parental investment (e.g., many offspring).\nK-selection: Fewer offspring with higher investment (e.g., longevity, parental care).\nDormancy: Delayed development (e.g., seed banks).\n\n\n\n\n\nBoosting Genetic Diversity\n\nRole: Buffers populations against fluctuations, ensuring some individuals thrive in any condition.\nMechanisms: Variation of mutation rate, sexual reproduction, dispersal / gene flow.\n\nPhenotypic Plasticity\n\nDefinition: Non-parallel reaction norms among individuals with different genotypes in response to different environmental conditions. GxE interaction.\nExamples: Seasonal coat color changes in animals; metabolic flexibility in plants."
+  },
+  {
+    "objectID": "slides/closing.html#my-academic-friends",
+    "href": "slides/closing.html#my-academic-friends",
+    "title": "",
+    "section": "My Academic friends,",
+    "text": "My Academic friends,\nhave all worked in both academic and non-academic environments at some point\n\n\n\nProgram manager\nDatabase management\nData librarian\n\nData scientist\nMathematical Statistician\n\n\n\nResearcher at the Smithsonian\nIT / AWS specialist\nPublic health educator\nConsultant\nEnvironmental health professional\nBiotechnology startup researcher"
+  },
+  {
+    "objectID": "slides/closing.html#for-example",
+    "href": "slides/closing.html#for-example",
+    "title": "",
+    "section": "For example",
+    "text": "For example\nAlmost all of my academic friends, have all worked in both academic and non-academic environments at some point\nI know graduates who are currently:\n\n\n\nProgram manager\nDatabase management\nData librarian\n\nData scientist\nMathematical Statistician\n\n\n\nResearcher at the Smithsonian\nIT / AWS specialist\nPublic health educator\nConsultant\nEnvironmental health professional\nBiotechnology startup researcher"
+  },
+  {
+    "objectID": "slides/closing.html#but-sometimes-if-feels-like",
+    "href": "slides/closing.html#but-sometimes-if-feels-like",
+    "title": "",
+    "section": "But sometimes if feels like",
+    "text": "But sometimes if feels like\n\n\n\n\n\n\nBut it can sure feel like this getting into science right now right? For anyone colorblind I apologize - there are no overlapping colors between the legend and the diagram."
+  },
+  {
+    "objectID": "index.html#but-sometimes-if-feels-like",
+    "href": "index.html#but-sometimes-if-feels-like",
+    "title": "Adaptation",
+    "section": "But sometimes if feels like",
+    "text": "But sometimes if feels like\n\n\n\n\n\n\nBut it can sure feel like this getting into science right now right? For anyone colorblind I apologize - there are no overlapping colors between the legend and the diagram."
+  },
+  {
+    "objectID": "index.html#for-example",
+    "href": "index.html#for-example",
+    "title": "Adaptation",
+    "section": "For example",
+    "text": "For example\nAlmost all of my academic friends, have all worked in both academic and non-academic environments at some point\nI know graduates who are currently:\n\n\n\nProgram manager\nDatabase management\nData librarian\n\nData scientist\nMathematical Statistician\n\n\n\nResearcher at the Smithsonian\nIT / AWS specialist\nPublic health educator\nConsultant\nEnvironmental health professional\nBiotechnology startup researcher"
+  },
+  {
+    "objectID": "index.html#adaptation-in-stochastic-research-research-environments",
+    "href": "index.html#adaptation-in-stochastic-research-research-environments",
+    "title": "Adaptation",
+    "section": "Adaptation in Stochastic Research Research Environments",
+    "text": "Adaptation in Stochastic Research Research Environments\n\n\n\nBet-Hedging\n\nDefinition: Increasing variance in fitness at the expense of lower average fitness to ensure survival across unpredictable conditions.\nExamples: Plants producing seeds with staggered germination times.\n\nLife History Adjustments\n\nr-selection: High fecundity with low parental investment (e.g., many offspring).\nK-selection: Fewer offspring with higher investment (e.g., longevity, parental care).\nDormancy: Delayed development (e.g., seed banks).\n\n\n\n\n\nBoosting Genetic Diversity\n\nRole: Buffers populations against fluctuations, ensuring some individuals thrive in any condition.\nMechanisms: Variation of mutation rate, sexual reproduction, dispersal / gene flow.\n\nPhenotypic Plasticity\n\nDefinition: Non-parallel reaction norms among individuals with different genotypes in response to different environmental conditions. GxE interaction.\nExamples: Seasonal coat color changes in animals; metabolic flexibility in plants."
+  },
+  {
+    "objectID": "index.html#but-what-about-being-replaced-by-ai-3",
+    "href": "index.html#but-what-about-being-replaced-by-ai-3",
+    "title": "Adaptation",
+    "section": "But what about being replaced by AI?",
+    "text": "But what about being replaced by AI?\n\n\n\n\n\n\n \n\n\n\n\n    If you make a complicated model of nature,"
+  },
+  {
+    "objectID": "index.html#but-what-about-being-replaced-by-ai-4",
+    "href": "index.html#but-what-about-being-replaced-by-ai-4",
+    "title": "Adaptation",
+    "section": "But what about being replaced by AI?",
+    "text": "But what about being replaced by AI?\n\n\n\n\n\n\n \n\n\n\n\n    If you make a complicated model of nature,\n    now you have two things you don’t understand.\n          -Alan Hastings"
+  },
+  {
+    "objectID": "index.html#but-what-about-being-replaced-by-ai-5",
+    "href": "index.html#but-what-about-being-replaced-by-ai-5",
+    "title": "Adaptation",
+    "section": "But what about being replaced by AI?",
+    "text": "But what about being replaced by AI?"
+  },
+  {
+    "objectID": "index.html#but-what-about-being-replaced-by-ai-6",
+    "href": "index.html#but-what-about-being-replaced-by-ai-6",
+    "title": "Adaptation",
+    "section": "But what about being replaced by AI?",
+    "text": "But what about being replaced by AI?\n\n\n\n\n\n\n \n\n\n\n\n    AI is a tool to help people answer questions. It’s as useful as the p-value. But we are the people who ask questions."
   }
 ]
