@@ -1,4 +1,4 @@
-## Classification-based Machine Learning {#uidaho}
+## Classification-based Machine Learning (UIdaho) {#uidaho}
 
 ![](/assets/img/leeef.avif){width=40% fig-align="center"}
 

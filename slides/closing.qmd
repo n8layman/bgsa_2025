@@ -1,5 +1,5 @@
 
-## Do I think science is a viable career path?
+## Do I still think science is a viable career path in 2025?
 
 :::: {.fragment .fade-up}
 ::: {.center-slide-text style="font-size: 400%;"}
@@ -15,7 +15,7 @@
 But it can sure feel like this getting into science right now right? For anyone colorblind I apologize - there are no overlapping colors between the legend and the diagram.
 ::::
 
-## Adaptation in a Stochastic Research Environment
+## Adaptation in a Stochastic Environment
 
 :::: {columns}
 ::: {.column}
@@ -51,7 +51,7 @@ I know graduates who are currently:
 :::
 :::
 
-## Adaptation in Stochastic _Research_ [Research]{style="color:red;"} Environments {.smaller}
+## Adaptation in Stochastic [Research]{style="color:red;"} Environments {.smaller}
 
 ::: {.column-container}
 ::: {.column-left}
@@ -117,10 +117,54 @@ More importantly, an generative AI is a based on massively complicated statistic
 ## My advice
 **Doing science beyond grad school involves**
 
-1. Leveraging your network
-2. Managing resources
+1. Learn project management!
+2. Leveraging your network
 3. Looking to the future
 
-Why aren't you doing that now?
+**Useful tools**
+
+- [Statistical Rethinking](https://github.com/rmcelreath/stat_rethinking_2024)
+  
+- [Project management with GitHub](https://docs.github.com/en/issues/tracking-your-work-with-issues/configuring-issues/planning-and-tracking-work-for-your-team-or-project)
+  
+- [Learn git](https://jvns.ca/blog/2024/04/25/new-zine--how-git-works-/)
+  
+- [Learn markdown](https://www.markdowntutorial.com/)
+
+## Advice from my friends
+
+**Focus on transferrable skills like communication, technical writing, data viz, coding, problem solving.**
+
+## Advice from my friends
+
+1. Take a grant writing class
+2. Take a coding class
+3. Learn GIS, particularly if doing fieldwork
+4. Take a 'how to find jobs seminar'
+
+
+## Advice from my friends
+
+•⁠  ⁠The best thing about SBS (and probably grad school anywhere) is the people. Make a point of meeting them, talking to them, asking for their help, and offering yours when you can. That will also have the side-effect of making you one of those great people folks meet in grad school.
+
+•⁠  ⁠⁠From the day you come in to the day you leave, remember that you’re here to learn. Try stuff, fail, ask for help, change directions. Being bad at something is good. That’s just something you can try to improve at, which is why you’re here.
+
+## Advice from my friends
+
+1. Self-Evaluated Workload: Prioritize balance and adjust work hours based on personal assessment, not peer pressure or toxic "overwork" culture.
+
+2. Critical Analysis: Always question why specific methods or techniques are used in research; avoid adopting approaches solely because they’re precedent—understand their rationale.
+
+3. Workflow Investment: Develop and maintain efficient workflows tailored to your needs, even if it requires upfront time.
+
+4. Advisor Relationship: Choose an advisor you can collaborate with effectively, as their mentorship profoundly impacts your PhD experience. Proactively nurture this relationship to navigate challenges.
+
+## Advice from my friends
+:::: {.fragment .fade-up}
+::: {.center-slide-text style="font-size: 400%;"}
+**Be curious**
+:::
+:::
+
 
 ## References

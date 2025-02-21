@@ -1,4 +1,4 @@
-## Generative AI-based Machine Learning {#eha}
+## Generative AI-based Machine Learning (EHA) {#eha}
 
 _EcoHealth Alliance is a nonprofit dedicated to using science-based solutions to prevent pandemics and promote conservation_ 
 
@@ -29,13 +29,15 @@ Quantifying Underreporting in Wildlife Disease Surveillance
 
 ## Automating a Lit Search
 
+:::: {layout="[[-1], [1], [-1]]"}
 :::: {.columns}
-::: {.column width="40%"}
+::: {.column width="30%"}
 ![](/assets/img/woah_litsearch.png){fig-align="center"}
 :::
-::: {.column width="60%"}
+::: {.column width="70%"}
 ![](/assets/img/woah_efficiency.png){fig-align="center"}
 :::
+::::
 ::::
 
 :::: footer

@@ -3,9 +3,9 @@
 1. About me
 2. Adaptation in stochastic environments  
 3. Some of my ML projects 
-   - _Campanula_ range expansion (WSU)
-   - Fine-scale zoonotic reservoirs (UIdaho)
-   - Surveillance sensitivity (EHA)
+   - Regression-based Machine Learning (WSU)
+   - Classification-based Machine Learning (UIdaho)
+   - Generative AI-based Machine Learning (EHA)
 4. Closing
 5. Questions
    
