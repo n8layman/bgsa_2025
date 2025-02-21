@@ -6,7 +6,7 @@ author:
   - name: Nathan C. Layman
     orcid: 0000-0003-2238-6584
     email: n8.layman@gmail.com
-    affiliations: EcoHealth Alliance
+    affiliations: n8layman.github.io/bgsa_2025
 ---
 
 ## Richard Gomulkiewicz {#richard}
@@ -18,7 +18,7 @@ author:
 
 :::: {.notpes}
 
-As I understand it I have the honor, of which I am most definetly not worthy, of being the first Gomulkiewicz Keynote Speaker. Many of you here knew him but for those prospective students who didn't that good fortune to meet him, he was a PI here at WSU but sadly passed away in 2023. His was an theoretical population geneticist and had a reputation for being tough. More than one of my fellow grad students warned me away from chosing him to be on my commitee during me first year. I am so grateful that I chose not to listen to that advice.
+As I understand it I have the honor, of which I am most definetly not worthy, of being the first Gomulkiewicz Keynote Speaker. Many of you here knew him but for those prospective students who didn't that good fortune to meet him, he was a PI here at WSU but sadly passed away in 2023. He was a theoretical population geneticist and had a reputation for being tough. More than one of my fellow grad students warned me away from chosing him to be on my commitee during me first year. I am so grateful that I chose not to listen to that advice.
 
 ::::
 

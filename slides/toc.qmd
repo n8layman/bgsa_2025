@@ -6,7 +6,7 @@
    - Regression-based Machine Learning (WSU)
    - Classification-based Machine Learning (UIdaho)
    - Generative AI-based Machine Learning (EHA)
-4. Closing
+4. Closing thoughts
 5. Questions
    
 ## About Me {#me}
@@ -70,7 +70,11 @@
 ![](/assets/img/fluctuating_fitness.png){width=70% fig-align="center"}
 
 :::: {.notes}
-We evolved the same barcoded library in five static conditions and five fluctuating pairs of these static conditions. We then isolated 889 mutants from the evolution experiments and performed pooled fitness assays in all environments, plus five additional fluctuating environments. B-C After correcting for mean population fitness, we estimate a mutant’s fitness from the slope of its log frequency. D The null hypothesis of additive fitness in a fluctuating environment is represented by the average of the slopes in panels B-C. Non-additive fitness might result if transitions in the fluctuating environment alter fitness of a mutant. E Non-additivity can be visualized by plotting observed fitness in a fluctuating environment vs. the null hypothesis. Mutants with non-additive fitness will appear above or below the one-to-one line. 
+ Our study finds that fitness in a fluctuating environment can be profoundly altered by transitions that are lacking in static environments.
+ 
+ We evolved the same barcoded library in five static conditions and five fluctuating pairs of these static conditions. We then isolated 889 mutants from the evolution experiments and performed pooled fitness assays in all environments, plus five additional fluctuating environments. B-C After correcting for mean population fitness, we estimate a mutant’s fitness from the slope of its log frequency. D The null hypothesis of additive fitness in a fluctuating environment is represented by the average of the slopes in panels B-C. Non-additive fitness might result if transitions in the fluctuating environment alter fitness of a mutant. E Non-additivity can be visualized by plotting observed fitness in a fluctuating environment vs. the null hypothesis. Mutants with non-additive fitness will appear above or below the one-to-one line. 
+
+
 ::::
 
 ## Different Kinds of Mean
@@ -84,7 +88,7 @@ By the way when we deal with mean fitness over time or generations we tend to us
 :::
 
 
-## Machine Learning {#machine_learning}
+## Speaking of statistics {#machine_learning}
 
 ![](/assets/img/machine-learning.png){fig-align="center"}
 
@@ -93,7 +97,7 @@ Now we're going to talk about machine learning. Each of the projects I'm going t
 
 ::::
 
-## XKCD's definition {#xkcd}
+## A better definition {#xkcd}
 
 :::: {layout="[[-1], [1], [-1]]"}
 ![](/assets/img/machine_learning_xkcd.png){fig-align="center"}
@@ -112,3 +116,14 @@ Now we're going to talk about machine learning. Each of the projects I'm going t
 ::: footer
 https://medium.com/data-science-at-microsoft/how-large-language-models-work-91c362f5b78f
 :::
+
+## Outline
+
+1. About me
+2. Adaptation in stochastic environments  
+3. Some of my ML projects 
+   - Regression-based Machine Learning (WSU)
+   - Classification-based Machine Learning (UIdaho)
+   - Generative AI-based Machine Learning (EHA)
+4. Closing thoughts
+5. Questions

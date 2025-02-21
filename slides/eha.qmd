@@ -55,3 +55,14 @@ Quantifying Underreporting in Wildlife Disease Surveillance
 ## Correcting for LLM errors using simulation extrapolation (SIMEX)
 
 ![](/assets/img/woah_simex.png){width=90% fig-align="center"}
+
+## Outline {#outline}
+
+1. About me
+2. Adaptation in stochastic environments  
+3. Some of my ML projects 
+   - Regression-based Machine Learning (WSU)
+   - Classification-based Machine Learning (UIdaho)
+   - Generative AI-based Machine Learning (EHA)
+4. Closing thoughts
+5. Questions

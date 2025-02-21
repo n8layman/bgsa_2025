@@ -7,7 +7,7 @@
 :::
 ::::
 
-## But sometimes if feels like
+## But sometimes it feels like
 
 ![](/assets/img/science_2025.jpg){width=50% fig-align="center"}
 
@@ -15,39 +15,32 @@
 But it can sure feel like this getting into science right now right? For anyone colorblind I apologize - there are no overlapping colors between the legend and the diagram.
 ::::
 
-## Adaptation in a Stochastic Environment
+## Biologists are plastic
 
-:::: {columns}
-::: {.column}
-![](/assets/img/transferable.png){width=50% fig-align="center"}
-::::
-::: {.column}
-Biologists are plastic!
-:::
-::::
+![](/assets/img/transferable.png){width=70% fig-align="center"}
 
-## For example
+## For example,
 
 **Almost all of my academic friends, have all worked in both academic and non-academic environments at some point**
 
-I know graduates who are currently:
+I know post-graduates who are
 
 ::: {.columns}
 ::: {.column}
-- Program manager 
-- Database management
-- Data librarian  
-- Data scientist 
+- Program managers
+- Database managements
+- Data librarians  
+- Data scientists 
 - Mathematical Statistician
 :::
 
 ::: {.column}
-- Researcher at the Smithsonian
-- IT / AWS specialist
-- Public health educator
-- Consultant
-- Environmental health professional
-- Biotechnology startup researcher
+- Researcher at the Smithsonians
+- IT / AWS specialists
+- Public health educators
+- Consultants
+- Environmental health professionals
+- Biotechnology startup researchers
 :::
 :::
 

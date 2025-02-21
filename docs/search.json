@@ -4,7 +4,7 @@
     "href": "index.html#richard",
     "title": "Adaptation",
     "section": "Richard Gomulkiewicz",
-    "text": "Richard Gomulkiewicz\n\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\n\n\n\nAs I understand it I have the honor, of which I am most definetly not worthy, of being the first Gomulkiewicz Keynote Speaker. Many of you here knew him but for those prospective students who didn’t that good fortune to meet him, he was a PI here at WSU but sadly passed away in 2023. His was an theoretical population geneticist and had a reputation for being tough. More than one of my fellow grad students warned me away from chosing him to be on my commitee during me first year. I am so grateful that I chose not to listen to that advice."
+    "text": "Richard Gomulkiewicz\n\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\n\n\n\nAs I understand it I have the honor, of which I am most definetly not worthy, of being the first Gomulkiewicz Keynote Speaker. Many of you here knew him but for those prospective students who didn’t that good fortune to meet him, he was a PI here at WSU but sadly passed away in 2023. He was a theoretical population geneticist and had a reputation for being tough. More than one of my fellow grad students warned me away from chosing him to be on my commitee during me first year. I am so grateful that I chose not to listen to that advice."
   },
   {
     "objectID": "index.html#geneology",
@@ -39,7 +39,7 @@
     "href": "index.html#fluctuating",
     "title": "Adaptation",
     "section": "These Hypotheses can Be Tested",
-    "text": "These Hypotheses can Be Tested\n“The fitness of a lineage in a fluctuating environment is the time average of its fitness over the sequence of static conditions it encounters.”1\n\n\n\n\n\n\nWe evolved the same barcoded library in five static conditions and five fluctuating pairs of these static conditions. We then isolated 889 mutants from the evolution experiments and performed pooled fitness assays in all environments, plus five additional fluctuating environments. B-C After correcting for mean population fitness, we estimate a mutant’s fitness from the slope of its log frequency. D The null hypothesis of additive fitness in a fluctuating environment is represented by the average of the slopes in panels B-C. Non-additive fitness might result if transitions in the fluctuating environment alter fitness of a mutant. E Non-additivity can be visualized by plotting observed fitness in a fluctuating environment vs. the null hypothesis. Mutants with non-additive fitness will appear above or below the one-to-one line."
+    "text": "These Hypotheses can Be Tested\n“The fitness of a lineage in a fluctuating environment is the time average of its fitness over the sequence of static conditions it encounters.”1\n\n\n\n\n\n\nOur study finds that fitness in a fluctuating environment can be profoundly altered by transitions that are lacking in static environments.\nWe evolved the same barcoded library in five static conditions and five fluctuating pairs of these static conditions. We then isolated 889 mutants from the evolution experiments and performed pooled fitness assays in all environments, plus five additional fluctuating environments. B-C After correcting for mean population fitness, we estimate a mutant’s fitness from the slope of its log frequency. D The null hypothesis of additive fitness in a fluctuating environment is represented by the average of the slopes in panels B-C. Non-additive fitness might result if transitions in the fluctuating environment alter fitness of a mutant. E Non-additivity can be visualized by plotting observed fitness in a fluctuating environment vs. the null hypothesis. Mutants with non-additive fitness will appear above or below the one-to-one line."
   },
   {
     "objectID": "index.html#different-kinds-of-mean",
@@ -52,15 +52,15 @@
     "objectID": "index.html#machine_learning",
     "href": "index.html#machine_learning",
     "title": "Adaptation",
-    "section": "Machine Learning",
-    "text": "Machine Learning\n\n\n\n\n\n\nNow we’re going to talk about machine learning. Each of the projects I’m going to talk about use machine learning in one context or another. Before we get there let’s review what the definition of machine learning is. At the core machine learning is statistical technique to learn patterns from data. It includes quite a lot of things like regression. It’s basically just statistics! But usually it’s lots of statistics."
+    "section": "Speaking of statistics",
+    "text": "Speaking of statistics\n\n\n\n\n\n\nNow we’re going to talk about machine learning. Each of the projects I’m going to talk about use machine learning in one context or another. Before we get there let’s review what the definition of machine learning is. At the core machine learning is statistical technique to learn patterns from data. It includes quite a lot of things like regression. It’s basically just statistics! But usually it’s lots of statistics."
   },
   {
     "objectID": "index.html#xkcd",
     "href": "index.html#xkcd",
     "title": "Adaptation",
-    "section": "XKCD’s definition",
-    "text": "XKCD’s definition"
+    "section": "A better definition",
+    "text": "A better definition"
   },
   {
     "objectID": "index.html#llms",
@@ -101,8 +101,8 @@
     "objectID": "index.html#uidaho",
     "href": "index.html#uidaho",
     "title": "Adaptation",
-    "section": "Classification-based Machine Learning",
-    "text": "Classification-based Machine Learning"
+    "section": "Classification-based Machine Learning (UIdaho)",
+    "text": "Classification-based Machine Learning (UIdaho)"
   },
   {
     "objectID": "index.html#landcover",
@@ -129,8 +129,8 @@
     "objectID": "index.html#eha",
     "href": "index.html#eha",
     "title": "Adaptation",
-    "section": "Generative AI-based Machine Learning",
-    "text": "Generative AI-based Machine Learning\nEcoHealth Alliance is a nonprofit dedicated to using science-based solutions to prevent pandemics and promote conservation\n\n\n\n\n\n\nEstablished in 1971, EcoHealth Alliance, then known as Wildlife Trust, is a global non-profit organization that uses rigorous and groundbreaking science to protect wildlife while safeguarding human health. We consist of a interdisciplinary team of scientists and scholars—from molecular biologists to field veterinarians, from bioinformaticians to behavioral risk specialists\nThe mission is to identify areas where human activity has increased the risk of zoonotic disease spillover, and the interventions necessary to prevent it."
+    "section": "Generative AI-based Machine Learning (EHA)",
+    "text": "Generative AI-based Machine Learning (EHA)\nEcoHealth Alliance is a nonprofit dedicated to using science-based solutions to prevent pandemics and promote conservation\n\n\n\n\n\n\nEstablished in 1971, EcoHealth Alliance, then known as Wildlife Trust, is a global non-profit organization that uses rigorous and groundbreaking science to protect wildlife while safeguarding human health. We consist of a interdisciplinary team of scientists and scholars—from molecular biologists to field veterinarians, from bioinformaticians to behavioral risk specialists\nThe mission is to identify areas where human activity has increased the risk of zoonotic disease spillover, and the interventions necessary to prevent it."
   },
   {
     "objectID": "index.html#world-organisation-for-animal-health-woah",
@@ -214,7 +214,7 @@
     "href": "index.html#my-advice",
     "title": "Adaptation",
     "section": "My advice",
-    "text": "My advice\nDoing science beyond grad school involves\n\nLeveraging your network\nManaging resources\nLooking to the future\n\nWhy aren’t you doing that now?"
+    "text": "My advice\nDoing science beyond grad school involves\n\nLearn project management!\nLeveraging your network\nLooking to the future\n\nUseful tools\n\nStatistical Rethinking\nProject management with GitHub\nLearn git\nLearn markdown"
   },
   {
     "objectID": "index.html#references",
@@ -374,8 +374,8 @@
     "objectID": "slides/closing.html#for-example",
     "href": "slides/closing.html#for-example",
     "title": "",
-    "section": "For example",
-    "text": "For example\nAlmost all of my academic friends, have all worked in both academic and non-academic environments at some point\nI know graduates who are currently:\n\n\n\nProgram manager\nDatabase management\nData librarian\n\nData scientist\nMathematical Statistician\n\n\n\nResearcher at the Smithsonian\nIT / AWS specialist\nPublic health educator\nConsultant\nEnvironmental health professional\nBiotechnology startup researcher"
+    "section": "For example,",
+    "text": "For example,\nAlmost all of my academic friends, have all worked in both academic and non-academic environments at some point\nI know post-graduates who are\n\n\n\nProgram managers\nDatabase managements\nData librarians\n\nData scientists\nMathematical Statistician\n\n\n\nResearcher at the Smithsonians\nIT / AWS specialists\nPublic health educators\nConsultants\nEnvironmental health professionals\nBiotechnology startup researchers"
   },
   {
     "objectID": "slides/closing.html#but-sometimes-if-feels-like",
@@ -395,8 +395,8 @@
     "objectID": "index.html#for-example",
     "href": "index.html#for-example",
     "title": "Adaptation",
-    "section": "For example",
-    "text": "For example\nAlmost all of my academic friends, have all worked in both academic and non-academic environments at some point\nI know graduates who are currently:\n\n\n\nProgram manager\nDatabase management\nData librarian\n\nData scientist\nMathematical Statistician\n\n\n\nResearcher at the Smithsonian\nIT / AWS specialist\nPublic health educator\nConsultant\nEnvironmental health professional\nBiotechnology startup researcher"
+    "section": "For example,",
+    "text": "For example,\nAlmost all of my academic friends, have all worked in both academic and non-academic environments at some point\nI know post-graduates who are\n\n\n\nProgram managers\nDatabase managements\nData librarians\n\nData scientists\nMathematical Statistician\n\n\n\nResearcher at the Smithsonians\nIT / AWS specialists\nPublic health educators\nConsultants\nEnvironmental health professionals\nBiotechnology startup researchers"
   },
   {
     "objectID": "index.html#adaptation-in-stochastic-research-research-environments",
@@ -523,5 +523,173 @@
     "title": "",
     "section": "Do I still think science is a viable career path in 2025?",
     "text": "Do I still think science is a viable career path in 2025?\n\n\nYes"
+  },
+  {
+    "objectID": "index.html#wsu",
+    "href": "index.html#wsu",
+    "title": "Adaptation",
+    "section": "Regression-based Machine Learning (WSU)",
+    "text": "Regression-based Machine Learning (WSU)\nCan we reconstruct historical of range expansion routes?"
+  },
+  {
+    "objectID": "index.html#do-i-still-think-science-is-a-viable-career-path-in-2025",
+    "href": "index.html#do-i-still-think-science-is-a-viable-career-path-in-2025",
+    "title": "Adaptation",
+    "section": "Do I still think science is a viable career path in 2025?",
+    "text": "Do I still think science is a viable career path in 2025?\n\n\nYes"
+  },
+  {
+    "objectID": "index.html#adaptation-in-a-stochastic-environment",
+    "href": "index.html#adaptation-in-a-stochastic-environment",
+    "title": "Adaptation",
+    "section": "Adaptation in a Stochastic Environment",
+    "text": "Adaptation in a Stochastic Environment\n\n\n\n\n\n\n\n\nBiologists are plastic!"
+  },
+  {
+    "objectID": "index.html#adaptation-in-stochastic-research-environments",
+    "href": "index.html#adaptation-in-stochastic-research-environments",
+    "title": "Adaptation",
+    "section": "Adaptation in Stochastic Research Environments",
+    "text": "Adaptation in Stochastic Research Environments\n\n\n\nBet-Hedging\n\nDefinition: Increasing variance in fitness at the expense of lower average fitness to ensure survival across unpredictable conditions.\nExamples: Plants producing seeds with staggered germination times.\n\nLife History Adjustments\n\nr-selection: High fecundity with low parental investment (e.g., many offspring).\nK-selection: Fewer offspring with higher investment (e.g., longevity, parental care).\nDormancy: Delayed development (e.g., seed banks).\n\n\n\n\n\nBoosting Genetic Diversity\n\nRole: Buffers populations against fluctuations, ensuring some individuals thrive in any condition.\nMechanisms: Variation of mutation rate, sexual reproduction, dispersal / gene flow.\n\nPhenotypic Plasticity\n\nDefinition: Non-parallel reaction norms among individuals with different genotypes in response to different environmental conditions. GxE interaction.\nExamples: Seasonal coat color changes in animals; metabolic flexibility in plants."
+  },
+  {
+    "objectID": "index.html#advice-from-my-friends",
+    "href": "index.html#advice-from-my-friends",
+    "title": "Adaptation",
+    "section": "Advice from my friends",
+    "text": "Advice from my friends\nFocus on transferrable skills like communication, technical writing, data viz, coding, problem solving."
+  },
+  {
+    "objectID": "index.html#advice-from-my-friends-1",
+    "href": "index.html#advice-from-my-friends-1",
+    "title": "Adaptation",
+    "section": "Advice from my friends",
+    "text": "Advice from my friends\n\nTake a grant writing class\nTake a coding class\nLearn GIS, particularly if doing fieldwork\nTake a ‘how to find jobs seminar’"
+  },
+  {
+    "objectID": "index.html#advice-from-my-friends-2",
+    "href": "index.html#advice-from-my-friends-2",
+    "title": "Adaptation",
+    "section": "Advice from my friends",
+    "text": "Advice from my friends\n•⁠ ⁠The best thing about SBS (and probably grad school anywhere) is the people. Make a point of meeting them, talking to them, asking for their help, and offering yours when you can. That will also have the side-effect of making you one of those great people folks meet in grad school.\n•⁠ ⁠⁠From the day you come in to the day you leave, remember that you’re here to learn. Try stuff, fail, ask for help, change directions. Being bad at something is good. That’s just something you can try to improve at, which is why you’re here."
+  },
+  {
+    "objectID": "index.html#advice-from-my-friends-3",
+    "href": "index.html#advice-from-my-friends-3",
+    "title": "Adaptation",
+    "section": "Advice from my friends",
+    "text": "Advice from my friends\n\nSelf-Evaluated Workload: Prioritize balance and adjust work hours based on personal assessment, not peer pressure or toxic “overwork” culture.\nCritical Analysis: Always question why specific methods or techniques are used in research; avoid adopting approaches solely because they’re precedent—understand their rationale.\nWorkflow Investment: Develop and maintain efficient workflows tailored to your needs, even if it requires upfront time.\nAdvisor Relationship: Choose an advisor you can collaborate with effectively, as their mentorship profoundly impacts your PhD experience. Proactively nurture this relationship to navigate challenges."
+  },
+  {
+    "objectID": "index.html#advice-from-my-friends-4",
+    "href": "index.html#advice-from-my-friends-4",
+    "title": "Adaptation",
+    "section": "Advice from my friends",
+    "text": "Advice from my friends\n\n\nBe curious"
+  },
+  {
+    "objectID": "slides/closing.html#biologists-are-plastic",
+    "href": "slides/closing.html#biologists-are-plastic",
+    "title": "",
+    "section": "Biologists are plastic",
+    "text": "Biologists are plastic"
+  },
+  {
+    "objectID": "slides/closing.html#but-sometimes-it-feels-like",
+    "href": "slides/closing.html#but-sometimes-it-feels-like",
+    "title": "",
+    "section": "But sometimes it feels like",
+    "text": "But sometimes it feels like\n\n\n\n\n\n\nBut it can sure feel like this getting into science right now right? For anyone colorblind I apologize - there are no overlapping colors between the legend and the diagram."
+  },
+  {
+    "objectID": "index.html#but-sometimes-it-feels-like",
+    "href": "index.html#but-sometimes-it-feels-like",
+    "title": "Adaptation",
+    "section": "But sometimes it feels like",
+    "text": "But sometimes it feels like\n\n\n\n\n\n\nBut it can sure feel like this getting into science right now right? For anyone colorblind I apologize - there are no overlapping colors between the legend and the diagram."
+  },
+  {
+    "objectID": "index.html#biologists-are-plastic",
+    "href": "index.html#biologists-are-plastic",
+    "title": "Adaptation",
+    "section": "Biologists are plastic",
+    "text": "Biologists are plastic"
+  },
+  {
+    "objectID": "slides/toc.html#outline",
+    "href": "slides/toc.html#outline",
+    "title": "",
+    "section": "Outline",
+    "text": "Outline\n\nAbout me\nAdaptation in stochastic environments\n\nSome of my ML projects\n\nRegression-based Machine Learning (WSU)\nClassification-based Machine Learning (UIdaho)\nGenerative AI-based Machine Learning (EHA)\n\nClosing\nQuestions"
+  },
+  {
+    "objectID": "slides/toc.html#me",
+    "href": "slides/toc.html#me",
+    "title": "",
+    "section": "About Me",
+    "text": "About Me\n\n\n\n\n\n\n\n \n\n\nHello! My name is Nathan Layman. I am an alumnus of the busch lab and the School of Biological Sciences here at WSU. I graduated in May of 2018 and the title of my thesis was, “The Evolution Of Self-Compatibility In Non-Equilibrium Populations”. I studied the evolution of mating systems, in particular in Leavenworthia alabamica and Campanula americana."
+  },
+  {
+    "objectID": "slides/toc.html#adaptation",
+    "href": "slides/toc.html#adaptation",
+    "title": "",
+    "section": "Adaptation in Stochastic Environments",
+    "text": "Adaptation in Stochastic Environments\n\n\n\nBet-Hedging\n\nDefinition: Increasing variance in fitness at the expense of lower average fitness to ensure survival across unpredictable conditions.\nExamples: Plants producing seeds with staggered germination times.\n\nLife History Adjustments\n\nr-selection: High fecundity with low parental investment (e.g., many offspring).\nK-selection: Fewer offspring with higher investment (e.g., longevity, parental care).\nDormancy: Delayed development (e.g., seed banks).\n\n\n\n\n\nBoosting Genetic Diversity\n\nRole: Buffers populations against fluctuations, ensuring some individuals thrive in any condition.\nMechanisms: Variation of mutation rate, sexual reproduction, dispersal / gene flow.\n\nPhenotypic Plasticity\n\nDefinition: Non-parallel reaction norms among individuals with different genotypes in response to different environmental conditions. GxE interaction.\nExamples: Seasonal coat color changes in animals; metabolic flexibility in plants."
+  },
+  {
+    "objectID": "slides/toc.html#fluctuating",
+    "href": "slides/toc.html#fluctuating",
+    "title": "",
+    "section": "These Hypotheses can Be Tested",
+    "text": "These Hypotheses can Be Tested\n“The fitness of a lineage in a fluctuating environment is the time average of its fitness over the sequence of static conditions it encounters.”1\n\n\n\n\n\n\nOur study finds that fitness in a fluctuating environment can be profoundly altered by transitions that are lacking in static environments.\nWe evolved the same barcoded library in five static conditions and five fluctuating pairs of these static conditions. We then isolated 889 mutants from the evolution experiments and performed pooled fitness assays in all environments, plus five additional fluctuating environments. B-C After correcting for mean population fitness, we estimate a mutant’s fitness from the slope of its log frequency. D The null hypothesis of additive fitness in a fluctuating environment is represented by the average of the slopes in panels B-C. Non-additive fitness might result if transitions in the fluctuating environment alter fitness of a mutant. E Non-additivity can be visualized by plotting observed fitness in a fluctuating environment vs. the null hypothesis. Mutants with non-additive fitness will appear above or below the one-to-one line."
+  },
+  {
+    "objectID": "slides/toc.html#different-kinds-of-mean",
+    "href": "slides/toc.html#different-kinds-of-mean",
+    "title": "",
+    "section": "Different Kinds of Mean",
+    "text": "Different Kinds of Mean\n\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\n\n\n\nBy the way when we deal with mean fitness over time or generations we tend to use geometric instead of arithmetic mean. To see why just think about what happens if the population fitness every dropped to zero. You’d still have a non-zero arithmetic mean even if though the population has gone extinct. Okay we’re going to transition away from stochastic environments for a minute but will return to it later."
+  },
+  {
+    "objectID": "slides/toc.html#machine_learning",
+    "href": "slides/toc.html#machine_learning",
+    "title": "",
+    "section": "Speaking of statistics",
+    "text": "Speaking of statistics\n\n\n\n\n\n\nNow we’re going to talk about machine learning. Each of the projects I’m going to talk about use machine learning in one context or another. Before we get there let’s review what the definition of machine learning is. At the core machine learning is statistical technique to learn patterns from data. It includes quite a lot of things like regression. It’s basically just statistics! But usually it’s lots of statistics."
+  },
+  {
+    "objectID": "slides/toc.html#xkcd",
+    "href": "slides/toc.html#xkcd",
+    "title": "",
+    "section": "A better definition",
+    "text": "A better definition"
+  },
+  {
+    "objectID": "slides/toc.html#llms",
+    "href": "slides/toc.html#llms",
+    "title": "",
+    "section": "Large Language Models",
+    "text": "Large Language Models"
+  },
+  {
+    "objectID": "slides/toc.html#transformers",
+    "href": "slides/toc.html#transformers",
+    "title": "",
+    "section": "Modeling Language",
+    "text": "Modeling Language\n\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\n\n\n\nhttps://medium.com/data-science-at-microsoft/how-large-language-models-work-91c362f5b78f"
+  },
+  {
+    "objectID": "slides/toc.html#outline-1",
+    "href": "slides/toc.html#outline-1",
+    "title": "",
+    "section": "Outline",
+    "text": "Outline\n\nAbout me\nAdaptation in stochastic environments\n\nSome of my ML projects\n\nRegression-based Machine Learning (WSU)\nClassification-based Machine Learning (UIdaho)\nGenerative AI-based Machine Learning (EHA)\n\nClosing\nQuestions\n\n\n\n\n\n1. Abreu, C. I., Mathur, S. & Petrov, D. A. Environmental memory alters the fitness effects of adaptive mutations in fluctuating environments. Nat. Ecol. Evol. 8, 1760–1775 (2024)."
+  },
+  {
+    "objectID": "index.html#outline-1",
+    "href": "index.html#outline-1",
+    "title": "Adaptation",
+    "section": "Outline",
+    "text": "Outline\n\nAbout me\nAdaptation in stochastic environments\n\nSome of my ML projects\n\nRegression-based Machine Learning (WSU)\nClassification-based Machine Learning (UIdaho)\nGenerative AI-based Machine Learning (EHA)\n\nClosing\nQuestions"
   }
 ]
