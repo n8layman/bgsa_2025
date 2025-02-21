@@ -64,5 +64,5 @@ Quantifying Underreporting in Wildlife Disease Surveillance
    - Regression-based Machine Learning (WSU)
    - Classification-based Machine Learning (UIdaho)
    - Generative AI-based Machine Learning (EHA)
-4. Closing thoughts
+4. [Closing thoughts]{style="color:blue;"} 
 5. Questions

@@ -437,8 +437,8 @@
     "objectID": "slides/eha.html#eha",
     "href": "slides/eha.html#eha",
     "title": "",
-    "section": "Generative AI-based Machine Learning",
-    "text": "Generative AI-based Machine Learning\nEcoHealth Alliance is a nonprofit dedicated to using science-based solutions to prevent pandemics and promote conservation\n\n\n\n\n\n\nEstablished in 1971, EcoHealth Alliance, then known as Wildlife Trust, is a global non-profit organization that uses rigorous and groundbreaking science to protect wildlife while safeguarding human health. We consist of a interdisciplinary team of scientists and scholars—from molecular biologists to field veterinarians, from bioinformaticians to behavioral risk specialists\nThe mission is to identify areas where human activity has increased the risk of zoonotic disease spillover, and the interventions necessary to prevent it."
+    "section": "Generative AI-based Machine Learning (EHA)",
+    "text": "Generative AI-based Machine Learning (EHA)\nEcoHealth Alliance is a nonprofit dedicated to using science-based solutions to prevent pandemics and promote conservation\n\n\n\n\n\n\nEstablished in 1971, EcoHealth Alliance, then known as Wildlife Trust, is a global non-profit organization that uses rigorous and groundbreaking science to protect wildlife while safeguarding human health. We consist of a interdisciplinary team of scientists and scholars—from molecular biologists to field veterinarians, from bioinformaticians to behavioral risk specialists\nThe mission is to identify areas where human activity has increased the risk of zoonotic disease spillover, and the interventions necessary to prevent it."
   },
   {
     "objectID": "slides/eha.html#world-organisation-for-animal-health-woah",
@@ -620,7 +620,7 @@
     "href": "slides/toc.html#outline",
     "title": "",
     "section": "Outline",
-    "text": "Outline\n\nAbout me\nAdaptation in stochastic environments\n\nSome of my ML projects\n\nRegression-based Machine Learning (WSU)\nClassification-based Machine Learning (UIdaho)\nGenerative AI-based Machine Learning (EHA)\n\nClosing\nQuestions"
+    "text": "Outline\n\nAbout me\nAdaptation in stochastic environments\n\nSome of my ML projects\n\nRegression-based Machine Learning (WSU)\nClassification-based Machine Learning (UIdaho)\nGenerative AI-based Machine Learning (EHA)\n\nClosing thoughts\nQuestions"
   },
   {
     "objectID": "slides/toc.html#me",
@@ -683,7 +683,7 @@
     "href": "slides/toc.html#outline-1",
     "title": "",
     "section": "Outline",
-    "text": "Outline\n\nAbout me\nAdaptation in stochastic environments\n\nSome of my ML projects\n\nRegression-based Machine Learning (WSU)\nClassification-based Machine Learning (UIdaho)\nGenerative AI-based Machine Learning (EHA)\n\nClosing\nQuestions\n\n\n\n\n\n1. Abreu, C. I., Mathur, S. & Petrov, D. A. Environmental memory alters the fitness effects of adaptive mutations in fluctuating environments. Nat. Ecol. Evol. 8, 1760–1775 (2024)."
+    "text": "Outline\n\nAbout me\nAdaptation in stochastic environments\n\nSome of my ML projects\n\nRegression-based Machine Learning (WSU)\nClassification-based Machine Learning (UIdaho)\nGenerative AI-based Machine Learning (EHA)\n\nClosing thoughts\nQuestions\n\n\n\n\n\n1. Abreu, C. I., Mathur, S. & Petrov, D. A. Environmental memory alters the fitness effects of adaptive mutations in fluctuating environments. Nat. Ecol. Evol. 8, 1760–1775 (2024)."
   },
   {
     "objectID": "index.html#outline-1",
@@ -691,5 +691,12 @@
     "title": "Adaptation",
     "section": "Outline",
     "text": "Outline\n\nAbout me\nAdaptation in stochastic environments\n\nSome of my ML projects\n\nRegression-based Machine Learning (WSU)\nClassification-based Machine Learning (UIdaho)\nGenerative AI-based Machine Learning (EHA)\n\nClosing\nQuestions"
+  },
+  {
+    "objectID": "slides/eha.html#outline",
+    "href": "slides/eha.html#outline",
+    "title": "",
+    "section": "Outline",
+    "text": "Outline\n\nAbout me\nAdaptation in stochastic environments\n\nSome of my ML projects\n\nRegression-based Machine Learning (WSU)\nClassification-based Machine Learning (UIdaho)\nGenerative AI-based Machine Learning (EHA)\n\nClosing thoughts\nQuestions"
   }
 ]
