@@ -41,7 +41,7 @@ Quantifying Underreporting in Wildlife Disease Surveillance
 ::::
 
 :::: footer
-Quantifying Underreporting in Wildlife Disease Surveillance
+2008-2019 - 131 countries - 56 diseases - 100,450 articles 
 ::::
 
 ## Automating a Lit Search
