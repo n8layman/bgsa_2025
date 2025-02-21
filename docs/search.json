@@ -1,0 +1,212 @@
+[
+  {
+    "objectID": "index.html#richard",
+    "href": "index.html#richard",
+    "title": "Adaptation",
+    "section": "Richard Gomulkiewicz",
+    "text": "Richard Gomulkiewicz\n\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\n\n\n\nAs I understand it I have the honor, of which I am most definetly not worthy, of being the first Gomulkiewicz Keynote Speaker. Many of you here knew him but for those prospective students who didn’t that good fortune to meet him, he was a PI here at WSU but sadly passed away in 2023. His was an theoretical population geneticist and had a reputation for being tough. More than one of my fellow grad students warned me away from chosing him to be on my commitee during me first year. I am so grateful that I chose not to listen to that advice."
+  },
+  {
+    "objectID": "index.html#geneology",
+    "href": "index.html#geneology",
+    "title": "Adaptation",
+    "section": "Mathematical Geneology",
+    "text": "Mathematical Geneology\n\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\n\n\n\nDick was not only an excellent scientist himself but also came from a long line of deep thinkers stretching back through Alan Hastings, Simon Levin and even all the way back in a direct line to Gauss. Once I graduated I worked as a postdoc in Scott Nuismers lab and from there went on to work with Dr. Noam Ross who was also trained by Alan Hastings. His loss is deeply felt."
+  },
+  {
+    "objectID": "index.html#richard-gomulkiewicz-richard",
+    "href": "index.html#richard-gomulkiewicz-richard",
+    "title": "Adaptation",
+    "section": "Richard Gomulkiewicz {#richard}",
+    "text": "Richard Gomulkiewicz {#richard}"
+  },
+  {
+    "objectID": "index.html#me",
+    "href": "index.html#me",
+    "title": "Adaptation",
+    "section": "About Me",
+    "text": "About Me\n\n\n\n\n\n\n\n \n\n\nHello! My name is Nathan Layman. I am an alumnus of the busch lab and the School of Biological Sciences here at WSU. I graduated in May of 2018 and the title of my thesis was, “The Evolution Of Self-Compatibility In Non-Equilibrium Populations”. I studied the evolution of mating systems, in particular in Leavenworthia alabamica and Campanula americana."
+  },
+  {
+    "objectID": "index.html#eha",
+    "href": "index.html#eha",
+    "title": "Adaptation",
+    "section": "EcoHealth Alliance",
+    "text": "EcoHealth Alliance\n\n\n\n\n\n\nI published two of my chapters in evolution and then went on to accept a post doc position later that year at the University of Idaho where I worked on the evolution of transmissible vaccines and got interested in disease forecasting. In 2021 I moved to my current position at EcoHealth alliance where I am currently a Senior Data Scientist."
+  },
+  {
+    "objectID": "index.html#buschlab",
+    "href": "index.html#buschlab",
+    "title": "Adaptation",
+    "section": "Busch Lab",
+    "text": "Busch Lab\n\n\n\n\n\n\n\n\n\n   \n\n\n\n\nBut I got my start here. At WSU as a member of the Busch Lab studying the evolution of mating systems in Leavenworthia alabamica."
+  },
+  {
+    "objectID": "index.html#outline",
+    "href": "index.html#outline",
+    "title": "Adaptation",
+    "section": "Outline",
+    "text": "Outline\n\nAbout me\nAdaptation in stochastic environments\n\nSome of my ML projects\n\nCampanula range expansion (WSU)\nFine-scale zoonotic reservoirs (UIdaho)\nSurveillance sensitivity (EHA)\n\nClosing\nQuestions"
+  },
+  {
+    "objectID": "slides/toc.html#outline",
+    "href": "slides/toc.html#outline",
+    "title": "",
+    "section": "Outline",
+    "text": "Outline\n\nAbout me\nAdaptation in stochastic environments\n\nSome of my ML projects\n\nCampanula range expansion (WSU)\nFine-scale zoonotic reservoirs (UIdaho)\nSurveillance sensitivity (EHA)\n\nClosing\nQuestions"
+  },
+  {
+    "objectID": "slides/toc.html#adaptation",
+    "href": "slides/toc.html#adaptation",
+    "title": "",
+    "section": "Adaptation in Stochastic Environments",
+    "text": "Adaptation in Stochastic Environments\n\n\n\nBet-Hedging\n\nDefinition: Reducing variance in fitness at the expense of lower average fitness to ensure survival across unpredictable conditions.\nExamples: Plants producing seeds with staggered germination times.\n\nLife History Adjustments\n\nr-selection: High fecundity with low parental investment (e.g., many offspring).\nK-selection: Fewer offspring with higher investment (e.g., longevity, parental care).\nDormancy: Delayed development (e.g., seed banks).\n\n\n\n\n\nBoosting Genetic Diversity\n\nRole: Buffers populations against fluctuations, ensuring some individuals thrive in any condition.\nMechanisms: Variation of mutation rate, sexual reproduction, dispersal / gene flow.\n\nPhenotypic Plasticity\n\nDefinition: Non-parallel reaction norms among individuals with different genotypes in response to different environmental conditions. GxE interaction.\nExamples: Seasonal coat color changes in animals; metabolic flexibility in plants."
+  },
+  {
+    "objectID": "slides/toc.html#machine_learning",
+    "href": "slides/toc.html#machine_learning",
+    "title": "",
+    "section": "Machine Learning",
+    "text": "Machine Learning\n\n\n\n\n\n\nNow we’re going to talk about machine learning. Each of the projects I’m going to talk about use machine learning in one context or another. Before we get there let’s review what the definition of machine learning is. At the core machine learning is statistical technique to learn patterns from data. It includes quite a lot of things like regression. It’s basically just statistics! But usually it’s lots of statistics."
+  },
+  {
+    "objectID": "index.html#adaptation",
+    "href": "index.html#adaptation",
+    "title": "Adaptation",
+    "section": "Adaptation in Stochastic Environments",
+    "text": "Adaptation in Stochastic Environments\n\n\n\nBet-Hedging\n\nDefinition: Reducing variance in fitness at the expense of lower average fitness to ensure survival across unpredictable conditions.\nExamples: Plants producing seeds with staggered germination times.\n\nLife History Adjustments\n\nr-selection: High fecundity with low parental investment (e.g., many offspring).\nK-selection: Fewer offspring with higher investment (e.g., longevity, parental care).\nDormancy: Delayed development (e.g., seed banks).\n\n\n\n\n\nBoosting Genetic Diversity\n\nRole: Buffers populations against fluctuations, ensuring some individuals thrive in any condition.\nMechanisms: Variation of mutation rate, sexual reproduction, dispersal / gene flow.\n\nPhenotypic Plasticity\n\nDefinition: Non-parallel reaction norms among individuals with different genotypes in response to different environmental conditions. GxE interaction.\nExamples: Seasonal coat color changes in animals; metabolic flexibility in plants."
+  },
+  {
+    "objectID": "index.html#machine_learning",
+    "href": "index.html#machine_learning",
+    "title": "Adaptation",
+    "section": "Machine Learning",
+    "text": "Machine Learning"
+  },
+  {
+    "objectID": "slides/toc.html#evolutionary-adaptations",
+    "href": "slides/toc.html#evolutionary-adaptations",
+    "title": "",
+    "section": "Evolutionary Adaptations",
+    "text": "Evolutionary Adaptations"
+  },
+  {
+    "objectID": "slides/toc.html#evolutionary-adaptations-1",
+    "href": "slides/toc.html#evolutionary-adaptations-1",
+    "title": "",
+    "section": "Evolutionary Adaptations",
+    "text": "Evolutionary Adaptations\n\n\n\nBet-Hedging Definition: Reducing variance in fitness at the expense of lower average fitness to ensure survival across unpredictable conditions. Examples: Plants producing seeds with staggered germination times.\nLife History Adjustments r-selection: High fecundity with low parental investment (e.g., many offspring). K-selection: Fewer offspring with higher investment (e.g., longevity, parental care). Dormancy: Delayed development (e.g., seed banks).\n\n\n\n\nBoosting Genetic Diversity Role: Buffers populations against fluctuations, ensuring some individuals thrive in any condition. Mechanisms: Variation of mutation rate, sexual reproduction, dispersal / gene flow.\nPhenotypic Plasticity Definition: Non-parallel reaction norms among individuals with different genotypes in response to different environmental conditions. GxE interaction. Examples: Seasonal coat color changes in animals; metabolic flexibility in plants."
+  },
+  {
+    "objectID": "slides/toc.html#adaptation-in-stochastic-environments-adaptation",
+    "href": "slides/toc.html#adaptation-in-stochastic-environments-adaptation",
+    "title": "",
+    "section": "Adaptation in Stochastic Environments {#adaptation}",
+    "text": "Adaptation in Stochastic Environments {#adaptation}\n\n\n\nBet-Hedging Definition: Reducing variance in fitness at the expense of lower average fitness to ensure survival across unpredictable conditions. Examples: Plants producing seeds with staggered germination times.\nLife History Adjustments r-selection: High fecundity with low parental investment (e.g., many offspring). K-selection: Fewer offspring with higher investment (e.g., longevity, parental care). Dormancy: Delayed development (e.g., seed banks).\n\n\n\n\nBoosting Genetic Diversity Role: Buffers populations against fluctuations, ensuring some individuals thrive in any condition. Mechanisms: Variation of mutation rate, sexual reproduction, dispersal / gene flow.\nPhenotypic Plasticity Definition: Non-parallel reaction norms among individuals with different genotypes in response to different environmental conditions. GxE interaction. Examples: Seasonal coat color changes in animals; metabolic flexibility in plants."
+  },
+  {
+    "objectID": "slides/toc.html#fluctuating",
+    "href": "slides/toc.html#fluctuating",
+    "title": "",
+    "section": "These Hypotheses can Be Tested",
+    "text": "These Hypotheses can Be Tested\n“The fitness of a lineage in a fluctuating environment is the time average of its fitness over the sequence of static conditions it encounters.”1\n\n\n\n\n\n\nWe evolved the same barcoded library in five static conditions and five fluctuating pairs of these static conditions. We then isolated 889 mutants from the evolution experiments and performed pooled fitness assays in all environments, plus five additional fluctuating environments. B-C After correcting for mean population fitness, we estimate a mutant’s fitness from the slope of its log frequency. D The null hypothesis of additive fitness in a fluctuating environment is represented by the average of the slopes in panels B-C. Non-additive fitness might result if transitions in the fluctuating environment alter fitness of a mutant. E Non-additivity can be visualized by plotting observed fitness in a fluctuating environment vs. the null hypothesis. Mutants with non-additive fitness will appear above or below the one-to-one line."
+  },
+  {
+    "objectID": "slides/toc.html#section",
+    "href": "slides/toc.html#section",
+    "title": "",
+    "section": "",
+    "text": "1. Abreu, C. I., Mathur, S. & Petrov, D. A. Environmental memory alters the fitness effects of adaptive mutations in fluctuating environments. Nat. Ecol. Evol. 8, 1760–1775 (2024)."
+  },
+  {
+    "objectID": "index.html#fluctuating",
+    "href": "index.html#fluctuating",
+    "title": "Adaptation",
+    "section": "Testing Fluctuating Selection",
+    "text": "Testing Fluctuating Selection\n“The fitness of a lineage in a fluctuating environment is the time average of its fitness over the sequence of static conditions it encounters.”1\n\n\n\n\n\n\nWe evolved the same barcoded library in five static conditions and five fluctuating pairs of these static conditions. We then isolated 889 mutants from the evolution experiments and performed pooled fitness assays in all environments, plus five additional fluctuating environments. B-C After correcting for mean population fitness, we estimate a mutant’s fitness from the slope of its log frequency. D The null hypothesis of additive fitness in a fluctuating environment is represented by the average of the slopes in panels B-C. Non-additive fitness might result if transitions in the fluctuating environment alter fitness of a mutant. E Non-additivity can be visualized by plotting observed fitness in a fluctuating environment vs. the null hypothesis. Mutants with non-additive fitness will appear above or below the one-to-one line."
+  },
+  {
+    "objectID": "index.html#section",
+    "href": "index.html#section",
+    "title": "Adaptation",
+    "section": "",
+    "text": "1. Abreu, C. I., Mathur, S. & Petrov, D. A. Environmental memory alters the fitness effects of adaptive mutations in fluctuating environments. Nat. Ecol. Evol. 8, 1760–1775 (2024)."
+  },
+  {
+    "objectID": "slides/toc.html#me",
+    "href": "slides/toc.html#me",
+    "title": "",
+    "section": "About Me",
+    "text": "About Me\n\n\n\n\n\n\n\n \n\n\nHello! My name is Nathan Layman. I am an alumnus of the busch lab and the School of Biological Sciences here at WSU. I graduated in May of 2018 and the title of my thesis was, “The Evolution Of Self-Compatibility In Non-Equilibrium Populations”. I studied the evolution of mating systems, in particular in Leavenworthia alabamica and Campanula americana."
+  },
+  {
+    "objectID": "slides/toc.html#llms",
+    "href": "slides/toc.html#llms",
+    "title": "",
+    "section": "Large Language Models",
+    "text": "Large Language Models"
+  },
+  {
+    "objectID": "slides/toc.html#transformers",
+    "href": "slides/toc.html#transformers",
+    "title": "",
+    "section": "Modeling Language",
+    "text": "Modeling Language\n\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\n\n\n\nhttps://medium.com/data-science-at-microsoft/how-large-language-models-work-91c362f5b78f\n\n\n\n\n\n1. Abreu, C. I., Mathur, S. & Petrov, D. A. Environmental memory alters the fitness effects of adaptive mutations in fluctuating environments. Nat. Ecol. Evol. 8, 1760–1775 (2024)."
+  },
+  {
+    "objectID": "index.html#llms",
+    "href": "index.html#llms",
+    "title": "Adaptation",
+    "section": "Large Language Models",
+    "text": "Large Language Models"
+  },
+  {
+    "objectID": "index.html#transformers",
+    "href": "index.html#transformers",
+    "title": "Adaptation",
+    "section": "Modeling Language",
+    "text": "Modeling Language\nhttps://medium.com/data-science-at-microsoft/how-large-language-models-work-91c362f5b78f :::: {layout=“[[-1], [1], [-1]]”}  :::: —-\n\n\n\n\n1. Abreu, C. I., Mathur, S. & Petrov, D. A. Environmental memory alters the fitness effects of adaptive mutations in fluctuating environments. Nat. Ecol. Evol. 8, 1760–1775 (2024)."
+  },
+  {
+    "objectID": "slides/toc.html#references",
+    "href": "slides/toc.html#references",
+    "title": "",
+    "section": "",
+    "text": "1. Abreu, C. I., Mathur, S. & Petrov, D. A. Environmental memory alters the fitness effects of adaptive mutations in fluctuating environments. Nat. Ecol. Evol. 8, 1760–1775 (2024)."
+  },
+  {
+    "objectID": "index.html#references",
+    "href": "index.html#references",
+    "title": "Adaptation",
+    "section": "",
+    "text": "1. Abreu, C. I., Mathur, S. & Petrov, D. A. Environmental memory alters the fitness effects of adaptive mutations in fluctuating environments. Nat. Ecol. Evol. 8, 1760–1775 (2024)."
+  },
+  {
+    "objectID": "slides/toc.html#mean",
+    "href": "slides/toc.html#mean",
+    "title": "",
+    "section": "Geometric mean",
+    "text": "Geometric mean\n\n\n\n\n\n\nBy the way when we deal with mean fitness over time or generations we tend to use geometric instead of arithmetic mean. To see why just think about what happens if the population fitness every dropped to zero. You’d still have a non-zero arithmetic mean even if though the population has gone extinct. Okay we’re going to transition away from stochastic environments for a minute but will return to it later."
+  },
+  {
+    "objectID": "slides/toc.html#xkcd",
+    "href": "slides/toc.html#xkcd",
+    "title": "",
+    "section": "XKCD’s definition",
+    "text": "XKCD’s definition"
+  },
+  {
+    "objectID": "slides/toc.html#these-hypotheses-can-be-tested",
+    "href": "slides/toc.html#these-hypotheses-can-be-tested",
+    "title": "",
+    "section": "These Hypotheses can Be Tested",
+    "text": "These Hypotheses can Be Tested\n\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\n\n\n\nBy the way when we deal with mean fitness over time or generations we tend to use geometric instead of arithmetic mean. To see why just think about what happens if the population fitness every dropped to zero. You’d still have a non-zero arithmetic mean even if though the population has gone extinct. Okay we’re going to transition away from stochastic environments for a minute but will return to it later."
+  },
+  {
+    "objectID": "slides/toc.html#different-kinds-of-mean",
+    "href": "slides/toc.html#different-kinds-of-mean",
+    "title": "",
+    "section": "Different Kinds of Mean",
+    "text": "Different Kinds of Mean\n\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\n\n\n\nBy the way when we deal with mean fitness over time or generations we tend to use geometric instead of arithmetic mean. To see why just think about what happens if the population fitness every dropped to zero. You’d still have a non-zero arithmetic mean even if though the population has gone extinct. Okay we’re going to transition away from stochastic environments for a minute but will return to it later."
+  }
+]

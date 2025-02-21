@@ -1,10 +1,108 @@
----
-title: "Outline"
----
+## Outline {#outline}
 
-Today we'll cover:
+1. About me
+2. Adaptation in stochastic environments  
+3. Some of my ML projects 
+   - _Campanula_ range expansion (WSU)
+   - Fine-scale zoonotic reservoirs (UIdaho)
+   - Surveillance sensitivity (EHA)
+4. Closing
+5. Questions
+   
+## About Me {#me}
 
-- Introduction and background
-- Methodology
-- Key results
-- Conclusions and next steps
+:::: {.columns}
+
+
+::: {.column width="27%"}
+![ ](/assets/img/jeremiah.jpg)
+:::
+
+::: {.column width="46%"}
+<!-- ![ ](assets/img/MapPic_Species1259.jpeg) -->
+![ ](/assets/img/counting_pollinators.jpg)
+:::
+
+::: {.column width="27%"}
+![ ](/assets/img/flats.png)
+![ ](/assets/img/leavenworthia.jpeg)
+:::
+
+::::
+
+
+:::: {.notes}
+ Hello! My name is Nathan Layman. I am an alumnus of the busch lab and the School of Biological Sciences here at WSU. I graduated in May of 2018 and the title of my thesis was, "The Evolution Of Self-Compatibility In Non-Equilibrium Populations". I studied the evolution of mating systems, in particular in _Leavenworthia alabamica_ and _Campanula americana_.
+::::
+
+## Adaptation in Stochastic Environments {#adaptation .smaller}
+
+::: {.column-container}
+::: {.column-left}
+- **Bet-Hedging**
+    - **Definition**: Reducing variance in fitness at the expense of lower average fitness to ensure survival across unpredictable conditions.
+    - **Examples**: Plants producing seeds with staggered germination times.
+
+- **Life History Adjustments**
+    - **r-selection**: High fecundity with low parental investment (e.g., many offspring).
+    - **K-selection**: Fewer offspring with higher investment (e.g., longevity, parental care).
+    - **Dormancy**: Delayed development (e.g., seed banks).
+:::
+
+::: {.column-right}
+- **Boosting Genetic Diversity**
+    - **Role**: Buffers populations against fluctuations, ensuring some individuals thrive in any condition.
+    - **Mechanisms**: Variation of mutation rate, sexual reproduction, dispersal / gene flow.
+
+- **Phenotypic Plasticity**
+    - **Definition**: Non-parallel reaction norms among individuals with different genotypes in response to different environmental conditions. GxE interaction.
+    - **Examples**: Seasonal coat color changes in animals; metabolic flexibility in plants.
+:::
+:::
+
+## These Hypotheses can Be Tested {#fluctuating .smaller}
+"The fitness of a lineage in a fluctuating environment is the time average of its fitness over the sequence of static conditions it encounters." @Abreu2024-lv
+
+![](/assets/img/fluctuating_fitness.png){width=70% fig-align="center"}
+
+:::: {.notes}
+We evolved the same barcoded library in five static conditions and five fluctuating pairs of these static conditions. We then isolated 889 mutants from the evolution experiments and performed pooled fitness assays in all environments, plus five additional fluctuating environments. B-C After correcting for mean population fitness, we estimate a mutant’s fitness from the slope of its log frequency. D The null hypothesis of additive fitness in a fluctuating environment is represented by the average of the slopes in panels B-C. Non-additive fitness might result if transitions in the fluctuating environment alter fitness of a mutant. E Non-additivity can be visualized by plotting observed fitness in a fluctuating environment vs. the null hypothesis. Mutants with non-additive fitness will appear above or below the one-to-one line. 
+::::
+
+## Different Kinds of Mean
+
+:::: {layout="[[-1], [1], [-1]]"}
+![](/assets/img/mean.png){fig-align="center"}
+::::
+
+:::: {.notes}
+By the way when we deal with mean fitness over time or generations we tend to use geometric instead of arithmetic mean. To see why just think about what happens if the population fitness every dropped to zero. You'd still have a non-zero arithmetic mean even if though the population has gone extinct. Okay we're going to transition away from stochastic environments for a minute but will return to it later.
+:::
+
+
+## Machine Learning {#machine_learning}
+
+![](/assets/img/machine-learning.png){fig-align="center"}
+
+:::: {.notes}
+Now we're going to talk about machine learning. Each of the projects I'm going to talk about use machine learning in one context or another. Before we get there let's review what the definition of machine learning is. At the core machine learning is statistical technique to learn patterns from data. It includes quite a lot of things like regression. It's basically just statistics! But usually it's _lots_ of statistics.
+
+::::
+
+## XKCD's definition {#xkcd}
+
+![](/assets/img/machine_learning_xkcd.png){fig-align="center"}
+
+## Large Language Models {#llms}
+
+![](/assets/img/llms.png){fig-align="center"}
+
+## Modeling Language {#transformers}
+
+:::: {layout="[[-1], [1], [-1]]"}
+![](/assets/img/cat_llm.png){fig-align="center"}
+::::
+
+::: footer
+https://medium.com/data-science-at-microsoft/how-large-language-models-work-91c362f5b78f
+:::

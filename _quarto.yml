@@ -5,8 +5,10 @@ project:
 format:
   clean-revealjs:
     self-contained: true
-    transition: slide
+    transition: fade
     slide-number: c/t
+    auto-stretch: false
+    preview-links: true
     title-slide-attributes: 
       data-background-image: assets/img/random_walk.png
       data-background-position: right 10% center  # Adjust horizontal offset
@@ -23,9 +25,4 @@ execute:
 
 render:
   - index.qmd
-  - slides/gomulkiewicz.qmd
   - slides/toc.qmd
-  - slides/adaptation.qmd 
-  - slides/ML.qmd
-  - slides/campanula.qmd
-  - slides/woah.qmd
