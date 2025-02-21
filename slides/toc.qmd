@@ -35,12 +35,16 @@
  Hello! My name is Nathan Layman. I am an alumnus of the busch lab and the School of Biological Sciences here at WSU. I graduated in May of 2018 and the title of my thesis was, "The Evolution Of Self-Compatibility In Non-Equilibrium Populations". I studied the evolution of mating systems, in particular in _Leavenworthia alabamica_ and _Campanula americana_.
 ::::
 
+##
+
+![](/assets/img/nathan_layman_resume.png){width=60% fig-align="center"}
+
 ## Adaptation in Stochastic Environments {#adaptation .smaller}
 
 ::: {.column-container}
 ::: {.column-left}
 - **Bet-Hedging**
-    - **Definition**: Reducing variance in fitness at the expense of lower average fitness to ensure survival across unpredictable conditions.
+    - **Definition**: Increasing variance in fitness at the expense of lower average fitness to ensure survival across unpredictable conditions.
     - **Examples**: Plants producing seeds with staggered germination times.
 
 - **Life History Adjustments**

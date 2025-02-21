@@ -9,8 +9,9 @@ format:
     slide-number: c/t
     auto-stretch: false
     preview-links: true
+    css: assets/css/styles.css
     title-slide-attributes: 
-      data-background-image: assets/img/random_walk.png
+      data-background-image: /assets/img/random_walk.png
       data-background-position: right 10% center  # Adjust horizontal offset
       data-background-size: 50% auto  # Width to 30% of slide, height auto-scaled
 
@@ -25,4 +26,3 @@ execute:
 
 render:
   - index.qmd
-  - slides/toc.qmd

@@ -1,11 +1,8 @@
-.border {
-    border: 1px solid #dee2e6;
-  }
-  
-  .border-thick {
-    border-width: 3px;
-  }
 
-  #refs { 
-    font-size: 0.7em; 
+  .center-slide-text {
+    text-align: center;
+    display: flex !important;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
   }

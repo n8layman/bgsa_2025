@@ -74,7 +74,7 @@
     "href": "index.html#adaptation",
     "title": "Adaptation",
     "section": "Adaptation in Stochastic Environments",
-    "text": "Adaptation in Stochastic Environments\n\n\n\nBet-Hedging\n\nDefinition: Reducing variance in fitness at the expense of lower average fitness to ensure survival across unpredictable conditions.\nExamples: Plants producing seeds with staggered germination times.\n\nLife History Adjustments\n\nr-selection: High fecundity with low parental investment (e.g., many offspring).\nK-selection: Fewer offspring with higher investment (e.g., longevity, parental care).\nDormancy: Delayed development (e.g., seed banks).\n\n\n\n\n\nBoosting Genetic Diversity\n\nRole: Buffers populations against fluctuations, ensuring some individuals thrive in any condition.\nMechanisms: Variation of mutation rate, sexual reproduction, dispersal / gene flow.\n\nPhenotypic Plasticity\n\nDefinition: Non-parallel reaction norms among individuals with different genotypes in response to different environmental conditions. GxE interaction.\nExamples: Seasonal coat color changes in animals; metabolic flexibility in plants."
+    "text": "Adaptation in Stochastic Environments\n\n\n\nBet-Hedging\n\nDefinition: Increasing variance in fitness at the expense of lower average fitness to ensure survival across unpredictable conditions.\nExamples: Plants producing seeds with staggered germination times.\n\nLife History Adjustments\n\nr-selection: High fecundity with low parental investment (e.g., many offspring).\nK-selection: Fewer offspring with higher investment (e.g., longevity, parental care).\nDormancy: Delayed development (e.g., seed banks).\n\n\n\n\n\nBoosting Genetic Diversity\n\nRole: Buffers populations against fluctuations, ensuring some individuals thrive in any condition.\nMechanisms: Variation of mutation rate, sexual reproduction, dispersal / gene flow.\n\nPhenotypic Plasticity\n\nDefinition: Non-parallel reaction norms among individuals with different genotypes in response to different environmental conditions. GxE interaction.\nExamples: Seasonal coat color changes in animals; metabolic flexibility in plants."
   },
   {
     "objectID": "index.html#machine_learning",
@@ -178,8 +178,8 @@
     "objectID": "index.html#references",
     "href": "index.html#references",
     "title": "Adaptation",
-    "section": "",
-    "text": "1. Abreu, C. I., Mathur, S. & Petrov, D. A. Environmental memory alters the fitness effects of adaptive mutations in fluctuating environments. Nat. Ecol. Evol. 8, 1760–1775 (2024)."
+    "section": "References",
+    "text": "References\n\n\n\n\n1. Abreu, C. I., Mathur, S. & Petrov, D. A. Environmental memory alters the fitness effects of adaptive mutations in fluctuating environments. Nat. Ecol. Evol. 8, 1760–1775 (2024).\n\n\n2. Prior, C. J., Layman, N. C., Koski, M. H., Galloway, L. F. & Busch, J. W. Westward range expansion from middle latitudes explains the mississippi river discontinuity in a forest herb of eastern north america. Molecular Ecology 29, 4473–4486 (2020).\n\n\n3. Rehmann, C. T., Small, S. T., Ralph, P. L. & Kern, A. D. Sweeps in space: Leveraging geographic data to identify beneficial alleles in anopheles gambiae. bioRxiv (2025) doi:10.1101/2025.02.07.637123.\n\n\n4. Layman, N. C. et al. Predicting the fine‐scale spatial distribution of zoonotic reservoirs using computer vision. Ecology Letters 26, 1974–1986 (2023)."
   },
   {
     "objectID": "slides/toc.html#mean",
@@ -277,21 +277,21 @@
     "href": "index.html#landcover",
     "title": "Adaptation",
     "section": "Land Cover Classification",
-    "text": "Land Cover Classification\n\n\n\n\n\n\nPredicting the fine-scale spatial distribution of zoonotic reservoirs using computer vision2\n\n\nWe developed a weakly supervised machine learning framework capable of segmentating land cover and classifying buildings using aerial photographs."
+    "text": "Land Cover Classification\n\n\n\n\n\n\nPredicting the fine-scale spatial distribution of zoonotic reservoirs using computer vision4\n\n\nWe developed a weakly supervised machine learning framework capable of segmentating land cover and classifying buildings using aerial photographs."
   },
   {
     "objectID": "index.html#reservoir",
     "href": "index.html#reservoir",
     "title": "Adaptation",
     "section": "Zoonotic Reservoirs",
-    "text": "Zoonotic Reservoirs\n\n\n\n\n\n\nPredicting the fine-scale spatial distribution of zoonotic reservoirs using computer vision2\n\n\nThe idea was to use to combine these fine-scale resolution predictors with trapping data. That could let us use another machine learning technique, boosted regression trees, to identify where in the villages the zoonotic reservoir was most likely to be found. Which could be useful for coming up within mitigation strategies or evaluating the drivers of disease risk."
+    "text": "Zoonotic Reservoirs\n\n\n\n\n\n\nPredicting the fine-scale spatial distribution of zoonotic reservoirs using computer vision4\n\n\nThe idea was to use to combine these fine-scale resolution predictors with trapping data. That could let us use another machine learning technique, boosted regression trees, to identify where in the villages the zoonotic reservoir was most likely to be found. Which could be useful for coming up within mitigation strategies or evaluating the drivers of disease risk."
   },
   {
     "objectID": "index.html#reservoir_features",
     "href": "index.html#reservoir_features",
     "title": "Adaptation",
     "section": "Fine-scale Predictors",
-    "text": "Fine-scale Predictors\n\n\n\n\n\n\nPredicting the fine-scale spatial distribution of zoonotic reservoirs using computer vision2\n\n\nA few interesting things we found is that mastomys natalensis, at least in these three villages, tend to be found close to buildings. Less than 100 meters. The building type didn’t seem to matter much. We also noticed an association with precipitation 5-6 months prior - something shown previously to result from birth pulses following the rainy season."
+    "text": "Fine-scale Predictors\n\n\n\n\n\n\nPredicting the fine-scale spatial distribution of zoonotic reservoirs using computer vision4\n\n\nA few interesting things we found is that mastomys natalensis, at least in these three villages, tend to be found close to buildings. Less than 100 meters. The building type didn’t seem to matter much. We also noticed an association with precipitation 5-6 months prior - something shown previously to result from birth pulses following the rainy season."
   },
   {
     "objectID": "slides/wsu.html#wsu",
@@ -305,21 +305,21 @@
     "href": "slides/wsu.html#tdoa",
     "title": "",
     "section": "TDOA",
-    "text": "TDOA\n\n\n\n\n\n\nIn species where a range expansion has recently occurred, repeated founder events will cause a linear increase in the frequency of derived alleles for populations that are increasingly far from the expansion source on the landscape. We used a simple iterative regression-based machine learning algorithm to choose the most likely point in space that best fit the observed patterns of derived allele frequence as a function of geographical distance from that point."
+    "text": "TDOA\n\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\n\n\n\nIn species where a range expansion has recently occurred, populations farther from the expansion’s starting point accumulate are expected to accumulate more derived alleles. This is a result of the repeated bottlenecks associated with This creates a spatial pattern where derived allele frequencies increase linearly with distance from the origin.\n\n\nWestward range expansion from middle latitudes explains the Mississippi River discontinuity in a forest herb of eastern North America1"
   },
   {
     "objectID": "slides/wsu.html#identifying-the-refugia",
     "href": "slides/wsu.html#identifying-the-refugia",
     "title": "",
     "section": "Identifying the refugia",
-    "text": "Identifying the refugia\n\n\n\n\n\n\nWestward range expansion from middle latitudes explains the Mississippi River discontinuity in a forest herb of eastern North America@Prior_2020"
+    "text": "Identifying the refugia\n\n\n\n\n\n\nSweeps in space: leveraging geographic data to identify beneficial alleles in Anopheles gambiae2"
   },
   {
     "objectID": "slides/wsu.html#missisipi-river-disconnect",
     "href": "slides/wsu.html#missisipi-river-disconnect",
     "title": "",
     "section": "Missisipi River Disconnect",
-    "text": "Missisipi River Disconnect\n\nWestward range expansion from middle latitudes explains the Mississippi River discontinuity in a forest herb of eastern North America@Prior_2020\n\n\nThe spatial pattern of genetic diversity best fit the nested origins model, which implies a primarily westward model of stepping-stone colonization"
+    "text": "Missisipi River Disconnect\n\nThe spatial pattern of genetic diversity best fit the nested origins model, which implies a primarily westward model of stepping-stone colonization. Which is suprising because it is commonly thought that expansion post glacial retreat happened south to north.\n\n\n\n\n\n1. Prior, C. J., Layman, N. C., Koski, M. H., Galloway, L. F. & Busch, J. W. Westward range expansion from middle latitudes explains the mississippi river discontinuity in a forest herb of eastern north america. Molecular Ecology 29, 4473–4486 (2020).\n\n\n2. Rehmann, C. T., Small, S. T., Ralph, P. L. & Kern, A. D. Sweeps in space: Leveraging geographic data to identify beneficial alleles in anopheles gambiae. bioRxiv (2025) doi:10.1101/2025.02.07.637123."
   },
   {
     "objectID": "slides/wsu.html#regression-based-machine-learning",
@@ -333,35 +333,35 @@
     "href": "index.html#regression-based-machine-learning",
     "title": "Adaptation",
     "section": "Regression-based Machine Learning",
-    "text": "Regression-based Machine Learning"
+    "text": "Regression-based Machine Learning\nCan we reconstruct historical of range expansion routes?"
   },
   {
     "objectID": "index.html#tdoa",
     "href": "index.html#tdoa",
     "title": "Adaptation",
-    "section": "TDOA",
-    "text": "TDOA\n\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\n\n\n\nIn species where a range expansion has recently occurred, populations farther from the expansion’s starting point accumulate are expected to accumulate more derived alleles. This is a result of the repeated bottlenecks associated with This creates a spatial pattern where derived allele frequencies increase linearly with distance from the origin."
+    "section": "Time Distance Of Arrival (TDOA)",
+    "text": "Time Distance Of Arrival (TDOA)\n\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\n\n\n\nIn species where a range expansion has recently occurred, populations farther from the expansion’s starting point accumulate are expected to accumulate more derived alleles. This is a result of the repeated bottlenecks associated with This creates a spatial pattern where derived allele frequencies increase linearly with distance from the origin.\n\n\nWestward range expansion from middle latitudes explains the Mississippi River discontinuity in a forest herb of eastern North America2"
   },
   {
     "objectID": "index.html#identifying-the-refugia",
     "href": "index.html#identifying-the-refugia",
     "title": "Adaptation",
     "section": "Identifying the refugia",
-    "text": "Identifying the refugia\n\n\n\n\n\n\nWestward range expansion from middle latitudes explains the Mississippi River discontinuity in a forest herb of eastern North America@Prior_2020"
+    "text": "Identifying the refugia\n\n\n\n\n\n\nSweeps in space: leveraging geographic data to identify beneficial alleles in Anopheles gambiae3\n\n\nThe spatial pattern of genetic diversity best fit the nested origins model, which implies a primarily westward model of stepping-stone colonization. Which is suprising because it is commonly thought that expansion post glacial retreat happened south to north."
   },
   {
     "objectID": "index.html#missisipi-river-disconnect",
     "href": "index.html#missisipi-river-disconnect",
     "title": "Adaptation",
     "section": "Missisipi River Disconnect",
-    "text": "Missisipi River Disconnect\n\nWestward range expansion from middle latitudes explains the Mississippi River discontinuity in a forest herb of eastern North America@Prior_2020\n\n\nThe spatial pattern of genetic diversity best fit the nested origins model, which implies a primarily westward model of stepping-stone colonization"
+    "text": "Missisipi River Disconnect\n\nThe spatial pattern of genetic diversity best fit the nested origins model, which implies a primarily westward model of stepping-stone colonization. Which is suprising because it is commonly thought that expansion post glacial retreat happened south to north."
   },
   {
     "objectID": "slides/eha.html#eha",
     "href": "slides/eha.html#eha",
     "title": "",
-    "section": "EcoHealth Alliance",
-    "text": "EcoHealth Alliance\nEcoHealth Alliance is a nonprofit dedicated to using science-based solutions to prevent pandemics and promote conservation\n\n\n\n\n\n\nEstablished in 1971, EcoHealth Alliance, then known as Wildlife Trust, is a global non-profit organization that uses rigorous and groundbreaking science to protect wildlife while safeguarding human health. We consist of a interdisciplinary team of scientists and scholars—from molecular biologists to field veterinarians, from bioinformaticians to behavioral risk specialists\nThe mission is to identify areas where human activity has increased the risk of zoonotic disease spillover, and the interventions necessary to prevent it."
+    "section": "Generative AI-based Machine Learning",
+    "text": "Generative AI-based Machine Learning\nEcoHealth Alliance is a nonprofit dedicated to using science-based solutions to prevent pandemics and promote conservation\n\n\n\n\n\n\nEstablished in 1971, EcoHealth Alliance, then known as Wildlife Trust, is a global non-profit organization that uses rigorous and groundbreaking science to protect wildlife while safeguarding human health. We consist of a interdisciplinary team of scientists and scholars—from molecular biologists to field veterinarians, from bioinformaticians to behavioral risk specialists\nThe mission is to identify areas where human activity has increased the risk of zoonotic disease spillover, and the interventions necessary to prevent it."
   },
   {
     "objectID": "slides/eha.html#one-health",
@@ -389,6 +389,286 @@
     "href": "index.html#computational-science-team",
     "title": "Adaptation",
     "section": "Computational Science Team",
-    "text": "Computational Science Team\n\n\n\n\n\n\n\n\n\n1. Abreu, C. I., Mathur, S. & Petrov, D. A. Environmental memory alters the fitness effects of adaptive mutations in fluctuating environments. Nat. Ecol. Evol. 8, 1760–1775 (2024).\n\n\n2. Layman, N. C. et al. Predicting the fine‐scale spatial distribution of zoonotic reservoirs using computer vision. Ecology Letters 26, 1974–1986 (2023)."
+    "text": "Computational Science Team"
+  },
+  {
+    "objectID": "slides/closing.html#science-in-2025",
+    "href": "slides/closing.html#science-in-2025",
+    "title": "",
+    "section": "Science in 2025",
+    "text": "Science in 2025"
+  },
+  {
+    "objectID": "slides/closing.html#what-about-ai",
+    "href": "slides/closing.html#what-about-ai",
+    "title": "",
+    "section": "What about AI?",
+    "text": "What about AI?"
+  },
+  {
+    "objectID": "slides/closing.html#what-about-politics",
+    "href": "slides/closing.html#what-about-politics",
+    "title": "",
+    "section": "What about politics?",
+    "text": "What about politics?"
+  },
+  {
+    "objectID": "slides/closing.html#adaptation-in-a-stochastic-research-environment",
+    "href": "slides/closing.html#adaptation-in-a-stochastic-research-environment",
+    "title": "",
+    "section": "Adaptation in a Stochastic Research Environment",
+    "text": "Adaptation in a Stochastic Research Environment\nScientists are plastic! All of the skills we learn are highly transferable."
+  },
+  {
+    "objectID": "slides/closing.html#questions",
+    "href": "slides/closing.html#questions",
+    "title": "",
+    "section": "Questions",
+    "text": "Questions"
+  },
+  {
+    "objectID": "slides/closing.html#references",
+    "href": "slides/closing.html#references",
+    "title": "",
+    "section": "References",
+    "text": "References"
+  },
+  {
+    "objectID": "index.html#woah",
+    "href": "index.html#woah",
+    "title": "Adaptation",
+    "section": "WOAH",
+    "text": "WOAH"
+  },
+  {
+    "objectID": "index.html#automating-a-lit-search",
+    "href": "index.html#automating-a-lit-search",
+    "title": "Adaptation",
+    "section": "Automating a Lit Search",
+    "text": "Automating a Lit Search\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nQuantifying Underreporting in Wildlife Disease Surveillance"
+  },
+  {
+    "objectID": "index.html#science-in-2025",
+    "href": "index.html#science-in-2025",
+    "title": "Adaptation",
+    "section": "Science in 2025",
+    "text": "Science in 2025"
+  },
+  {
+    "objectID": "index.html#do-i-think-scinece-is-a-viable-careero-path",
+    "href": "index.html#do-i-think-scinece-is-a-viable-careero-path",
+    "title": "Adaptation",
+    "section": "Do I think scinece is a viable careero path?",
+    "text": "Do I think scinece is a viable careero path?\nYes."
+  },
+  {
+    "objectID": "index.html#but-what-about-being-replaced-by-ai",
+    "href": "index.html#but-what-about-being-replaced-by-ai",
+    "title": "Adaptation",
+    "section": "But what about being replaced by AI?",
+    "text": "But what about being replaced by AI?"
+  },
+  {
+    "objectID": "index.html#adaptation-in-a-stochastic-research-environment",
+    "href": "index.html#adaptation-in-a-stochastic-research-environment",
+    "title": "Adaptation",
+    "section": "Adaptation in a Stochastic Research Environment",
+    "text": "Adaptation in a Stochastic Research Environment\nScientists are plastic! All of the skills we learn are highly transferable."
+  },
+  {
+    "objectID": "index.html#advice",
+    "href": "index.html#advice",
+    "title": "Adaptation",
+    "section": "Advice",
+    "text": "Advice\nDoing science beyond grad school involves\n\nLeveraging your network\nManaging resources including time and money\nLooking to the future\n\nWhy aren’t you doing that now?"
+  },
+  {
+    "objectID": "index.html#questions",
+    "href": "index.html#questions",
+    "title": "Adaptation",
+    "section": "Questions",
+    "text": "Questions"
+  },
+  {
+    "objectID": "slides/closing.html#do-i-think-scinece-is-a-viable-careero-path",
+    "href": "slides/closing.html#do-i-think-scinece-is-a-viable-careero-path",
+    "title": "",
+    "section": "Do I think scinece is a viable careero path?",
+    "text": "Do I think scinece is a viable careero path?\nYes."
+  },
+  {
+    "objectID": "slides/closing.html#but-what-about-being-replaced-by-ai",
+    "href": "slides/closing.html#but-what-about-being-replaced-by-ai",
+    "title": "",
+    "section": "But what about being replaced by AI?",
+    "text": "But what about being replaced by AI?"
+  },
+  {
+    "objectID": "slides/closing.html#advice",
+    "href": "slides/closing.html#advice",
+    "title": "",
+    "section": "Advice",
+    "text": "Advice"
+  },
+  {
+    "objectID": "slides/eha.html#woah",
+    "href": "slides/eha.html#woah",
+    "title": "",
+    "section": "WOAH",
+    "text": "WOAH\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nQuantifying Underreporting in Wildlife Disease Surveillance"
+  },
+  {
+    "objectID": "slides/eha.html#automating-a-lit-search",
+    "href": "slides/eha.html#automating-a-lit-search",
+    "title": "",
+    "section": "Automating a Lit Search",
+    "text": "Automating a Lit Search\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nQuantifying Underreporting in Wildlife Disease Surveillance"
+  },
+  {
+    "objectID": "slides/eha.html#world-organisation-for-animal-health-woah",
+    "href": "slides/eha.html#world-organisation-for-animal-health-woah",
+    "title": "",
+    "section": "World Organisation for Animal Health (WOAH)",
+    "text": "World Organisation for Animal Health (WOAH)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nQuantifying Underreporting in Wildlife Disease Surveillance"
+  },
+  {
+    "objectID": "slides/eha.html#correcting-for-llm-errors-using-simulation-extrapolation-simex",
+    "href": "slides/eha.html#correcting-for-llm-errors-using-simulation-extrapolation-simex",
+    "title": "",
+    "section": "Correcting for LLM errors using simulation extrapolation (SIMEX)",
+    "text": "Correcting for LLM errors using simulation extrapolation (SIMEX)"
+  },
+  {
+    "objectID": "slides/eha.html#automating-a-lit-search-1",
+    "href": "slides/eha.html#automating-a-lit-search-1",
+    "title": "",
+    "section": "Automating a Lit Search",
+    "text": "Automating a Lit Search\n\n\n\n\n\n\nQuantifying Underreporting in Wildlife Disease Surveillance"
+  },
+  {
+    "objectID": "slides/closing.html#do-i-think-science-is-a-viable-careero-path",
+    "href": "slides/closing.html#do-i-think-science-is-a-viable-careero-path",
+    "title": "",
+    "section": "Do I think science is a viable careero path?",
+    "text": "Do I think science is a viable careero path?\nYes."
+  },
+  {
+    "objectID": "slides/closing.html#do-i-think-science-is-a-viable-career-path",
+    "href": "slides/closing.html#do-i-think-science-is-a-viable-career-path",
+    "title": "",
+    "section": "Do I think science is a viable career path?",
+    "text": "Do I think science is a viable career path?\n\nYes."
+  },
+  {
+    "objectID": "slides/closing.html#advice-1",
+    "href": "slides/closing.html#advice-1",
+    "title": "",
+    "section": "Advice",
+    "text": "Advice"
+  },
+  {
+    "objectID": "slides/closing.html#advice-2",
+    "href": "slides/closing.html#advice-2",
+    "title": "",
+    "section": "Advice",
+    "text": "Advice\nDoing science beyond grad school involves\n\nLeveraging your network\nManaging resources\nLooking to the future\n\nWhy aren’t you doing that now?"
+  },
+  {
+    "objectID": "slides/closing.html#but-what-about-being-replaced-by-ai-1",
+    "href": "slides/closing.html#but-what-about-being-replaced-by-ai-1",
+    "title": "",
+    "section": "But what about being replaced by AI?",
+    "text": "But what about being replaced by AI?\nIf you make a complicated model of nature,"
+  },
+  {
+    "objectID": "slides/closing.html#my-friends-advice",
+    "href": "slides/closing.html#my-friends-advice",
+    "title": "",
+    "section": "My friend’s advice",
+    "text": "My friend’s advice"
+  },
+  {
+    "objectID": "slides/closing.html#my-advice",
+    "href": "slides/closing.html#my-advice",
+    "title": "",
+    "section": "My advice",
+    "text": "My advice\nDoing science beyond grad school involves\n\nLeveraging your network\nManaging resources\nLooking to the future\n\nWhy aren’t you doing that now?"
+  },
+  {
+    "objectID": "slides/closing.html#but-what-about-being-replaced-by-ai-2",
+    "href": "slides/closing.html#but-what-about-being-replaced-by-ai-2",
+    "title": "",
+    "section": "But what about being replaced by AI?",
+    "text": "But what about being replaced by AI?\nIf you make a complicated model of nature, now you have two things you don’t understand.\n-Alan Hastings"
+  },
+  {
+    "objectID": "index.html#world-organisation-for-animal-health-woah",
+    "href": "index.html#world-organisation-for-animal-health-woah",
+    "title": "Adaptation",
+    "section": "World Organisation for Animal Health (WOAH)",
+    "text": "World Organisation for Animal Health (WOAH)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nQuantifying Underreporting in Wildlife Disease Surveillance"
+  },
+  {
+    "objectID": "index.html#automating-a-lit-search-1",
+    "href": "index.html#automating-a-lit-search-1",
+    "title": "Adaptation",
+    "section": "Automating a Lit Search",
+    "text": "Automating a Lit Search\n\n\n\n\n\n\nQuantifying Underreporting in Wildlife Disease Surveillance"
+  },
+  {
+    "objectID": "index.html#correcting-for-llm-errors-using-simulation-extrapolation-simex",
+    "href": "index.html#correcting-for-llm-errors-using-simulation-extrapolation-simex",
+    "title": "Adaptation",
+    "section": "Correcting for LLM errors using simulation extrapolation (SIMEX)",
+    "text": "Correcting for LLM errors using simulation extrapolation (SIMEX)"
+  },
+  {
+    "objectID": "index.html#do-i-think-science-is-a-viable-career-path",
+    "href": "index.html#do-i-think-science-is-a-viable-career-path",
+    "title": "Adaptation",
+    "section": "Do I think science is a viable career path?",
+    "text": "Do I think science is a viable career path?\n\nYes."
+  },
+  {
+    "objectID": "index.html#but-what-about-being-replaced-by-ai-1",
+    "href": "index.html#but-what-about-being-replaced-by-ai-1",
+    "title": "Adaptation",
+    "section": "But what about being replaced by AI?",
+    "text": "But what about being replaced by AI?\nIf you make a complicated model of nature,"
+  },
+  {
+    "objectID": "index.html#but-what-about-being-replaced-by-ai-2",
+    "href": "index.html#but-what-about-being-replaced-by-ai-2",
+    "title": "Adaptation",
+    "section": "But what about being replaced by AI?",
+    "text": "But what about being replaced by AI?\nIf you make a complicated model of nature, now you have two things you don’t understand.\n-Alan Hastings"
+  },
+  {
+    "objectID": "index.html#my-friends-advice",
+    "href": "index.html#my-friends-advice",
+    "title": "Adaptation",
+    "section": "My friend’s advice",
+    "text": "My friend’s advice"
+  },
+  {
+    "objectID": "index.html#my-advice",
+    "href": "index.html#my-advice",
+    "title": "Adaptation",
+    "section": "My advice",
+    "text": "My advice\nDoing science beyond grad school involves\n\nLeveraging your network\nManaging resources\nLooking to the future\n\nWhy aren’t you doing that now?"
+  },
+  {
+    "objectID": "slides/closing.html#but-what-about-being-replaced-by-ai-larger",
+    "href": "slides/closing.html#but-what-about-being-replaced-by-ai-larger",
+    "title": "",
+    "section": "But what about being replaced by AI? {larger}",
+    "text": "But what about being replaced by AI? {larger}\nIf you make a complicated model of nature,"
+  },
+  {
+    "objectID": "slides/closing.html#but-what-about-being-replaced-by-ai-larger-1",
+    "href": "slides/closing.html#but-what-about-being-replaced-by-ai-larger-1",
+    "title": "",
+    "section": "But what about being replaced by AI? {larger}",
+    "text": "But what about being replaced by AI? {larger}\nIf you make a complicated model of nature, now you have two things you don’t understand.\n-Alan Hastings"
   }
 ]

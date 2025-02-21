@@ -1,10 +1,12 @@
 ## Regression-based Machine Learning
 
+**Can we reconstruct historical of range expansion routes?**
+
 :::: {layout="[[-1], [1], [-1]]"}
 ![](/assets/img/campanula.webp){width=50% fig-align="center"}
 ::::
 
-## TDOA {#tdoa}
+## Time Distance Of Arrival (TDOA) {#tdoa}
 
 :::: {layout="[[-1], [1], [-1]]"}
 [![](/assets/img/tdoa.jpg){width=50% fig-align="center"}](https://n8-layman.shinyapps.io/tdoa/)
@@ -14,20 +16,18 @@
 In species where a range expansion has recently occurred, populations farther from the expansion's starting point accumulate are expected to accumulate more derived alleles. This is a result of the repeated bottlenecks associated with  This creates a spatial pattern where derived allele frequencies increase linearly with distance from the origin.
 ::::
 
-## Identifying the refugia
-
-![](/assets/img/refugia.png){width=75% fig-align="center"}
-
 :::: footer
-Westward range expansion from middle latitudes explains the Mississippi River discontinuity in a forest herb of eastern North America@Prior_2020
+Westward range expansion from middle latitudes explains the Mississippi River discontinuity in a forest herb of eastern North America @Prior_2020
 ::::
 
-## Missisipi River Disconnect
+## Identifying the refugia
+
+[![](/assets/img/refugia.png){width=75% fig-align="center"}](https://www.biorxiv.org/content/10.1101/2025.02.07.637123v1)
 
 :::: footer
-Westward range expansion from middle latitudes explains the Mississippi River discontinuity in a forest herb of eastern North America@Prior_2020
+Sweeps in space: leveraging geographic data to identify beneficial alleles in Anopheles gambiae @Rehmann2025.02.07.637123
 ::::
 
 :::: {.notes}
-The spatial pattern of genetic diversity best fit the nested origins model, which implies a primarily westward model of stepping-stone colonization
+The spatial pattern of genetic diversity best fit the nested origins model, which implies a primarily westward model of stepping-stone colonization. Which is suprising because it is commonly thought that expansion post glacial retreat happened south to north.
 :::: 

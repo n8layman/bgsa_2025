@@ -10,16 +10,46 @@ Established in 1971, EcoHealth Alliance, then known as Wildlife Trust, is a glob
 The mission is to identify areas where human activity has increased the risk of zoonotic disease spillover, and the interventions necessary to prevent it.
 ::::
 
-## One Health
+## World Organisation for Animal Health (WOAH)
 
-![](/assets/img/onehealth.webp){width=50% fig-align="center"}
+:::: {.columns}
 
-## Computational Science Team
+::: {.column width="50%"}
+![](/assets/img/woah_report.png){fig-align="center"}
+:::
 
-![](/assets/img/noam.jpeg){width=50% fig-align="center"}
+::: {.column width="50%"}
+![](/assets/img/woah_wahis.jpg){fig-align="center"}
+:::
+::::
 
-## WOAH
+:::: footer
+Quantifying Underreporting in Wildlife Disease Surveillance
+::::
 
 ## Automating a Lit Search
 
+:::: {.columns}
+::: {.column width="40%"}
+![](/assets/img/woah_litsearch.png){fig-align="center"}
+:::
+::: {.column width="60%"}
+![](/assets/img/woah_efficiency.png){fig-align="center"}
+:::
+::::
 
+:::: footer
+Quantifying Underreporting in Wildlife Disease Surveillance
+::::
+
+## Automating a Lit Search
+
+![](/assets/img/woah_sensitivity.png){fig-align="center"}
+
+:::: footer
+Quantifying Underreporting in Wildlife Disease Surveillance
+::::
+
+## Correcting for LLM errors using simulation extrapolation (SIMEX)
+
+![](/assets/img/woah_simex.png){width=90% fig-align="center"}

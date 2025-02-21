@@ -2,12 +2,42 @@
 
 ## Science in 2025
 
-## What about AI?
+![](/assets/img/science_2025.jpg){width=50% fig-align="center"}
 
-## What about politics?
+## Do I think science is a viable career path?
+
+:::: {.center-slide-text}
+Yes.
+::::
 
 ## Adaptation in a Stochastic Research Environment
 
-## Questions
+Scientists are plastic! All of the skills we learn are highly transferable. 
+
+## But what about being replaced by AI?
+
+![](/assets/img/Predictive-power-vs-interpretability-trade-off.png){width=70% fig-align="center"}
+
+## But what about being replaced by AI? {.larger}
+
+If you make a complicated model of nature,
+
+## But what about being replaced by AI? {.larger}
+
+If you make a complicated model of nature,
+now you have two things you don’t understand.
+
+-Alan Hastings
+
+## My friend's advice
+
+## My advice
+**Doing science beyond grad school involves**
+
+1. Leveraging your network
+2. Managing resources
+3. Looking to the future
+
+Why aren't you doing that now?
 
 ## References
