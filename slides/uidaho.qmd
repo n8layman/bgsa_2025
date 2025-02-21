@@ -1,9 +1,51 @@
-## University of Idaho {#eha}
+## Classification-based Machine Learning {#uidaho}
 
-## EcoHealth Alliance {#eha}
+![](/assets/img/leeef.avif){width=40% fig-align="center"}
 
-![](assets/img/onehealth.webp){width=60% fig-align="center"}
+:::: footer
+![](/assets/img/LE3F%20Logo_edited.avif){width=10%}
+::::
+
+## Land Cover Classification {#landcover}
+
+![](/assets/img/computer_vision_1.jpg){width=50% fig-align="center"}
+
+:::: footer
+Predicting the fine-scale
+spatial distribution of zoonotic reservoirs
+using computer vision @Layman_2023
+::::
 
 :::: {.notes}
-I published two of my chapters in evolution and then went on to accept a post doc position later that year at the University of Idaho where I worked on the evolution of transmissible vaccines and got interested in disease forecasting. In 2021 I moved to my current position at EcoHealth alliance where I am currently a Senior Data Scientist.
+We developed a weakly supervised machine
+learning framework capable of segmentating land cover and classifying buildings using aerial photographs.
 ::::
+
+## Zoonotic Reservoirs {#reservoir}
+
+![](/assets/img/computer_vision_2.jpg){fig-align="center"}
+
+:::: footer
+Predicting the fine-scale
+spatial distribution of zoonotic reservoirs
+using computer vision @Layman_2023
+::::
+:::: {.notes}
+The idea was to use to combine these fine-scale resolution predictors with trapping data. That could let us use another machine learning technique, boosted regression trees, to identify where in the villages the zoonotic reservoir was most likely to be found. Which could be useful for coming up within mitigation strategies or evaluating the drivers of disease risk.
+::::
+
+## Fine-scale Predictors {#reservoir_features}
+
+![](/assets/img/reservoir_features.png){width=75% fig-align="center"}
+
+:::: footer
+Predicting the fine-scale
+spatial distribution of zoonotic reservoirs
+using computer vision @Layman_2023
+::::
+
+:::: {.notes}
+A few interesting things we found is that mastomys natalensis, at least in these three villages, tend to be found close to buildings. Less than 100 meters. The building type didn't seem to matter much. We also noticed an association with precipitation 5-6 months prior - something shown previously to result from birth pulses following the rainy season.
+::::
+
+-----

@@ -1,9 +1,25 @@
-## University of Idaho {#eha}
+## Generative AI-based Machine Learning {#eha}
 
-## EcoHealth Alliance {#eha}
+_EcoHealth Alliance is a nonprofit dedicated to using science-based solutions to prevent pandemics and promote conservation_ 
 
-![](assets/img/onehealth.webp){width=60% fig-align="center"}
+![](/assets/img/eha.png){width=70% fig-align="center"}
 
 :::: {.notes}
-I published two of my chapters in evolution and then went on to accept a post doc position later that year at the University of Idaho where I worked on the evolution of transmissible vaccines and got interested in disease forecasting. In 2021 I moved to my current position at EcoHealth alliance where I am currently a Senior Data Scientist.
+Established in 1971, EcoHealth Alliance, then known as Wildlife Trust, is a global non-profit organization that uses rigorous and groundbreaking science to protect wildlife while safeguarding human health. We consist of a interdisciplinary team of scientists and scholars—from molecular biologists to field veterinarians, from bioinformaticians to behavioral risk specialists
+
+The mission is to identify areas where human activity has increased the risk of zoonotic disease spillover, and the interventions necessary to prevent it.
 ::::
+
+## One Health
+
+![](/assets/img/onehealth.webp){width=50% fig-align="center"}
+
+## Computational Science Team
+
+![](/assets/img/noam.jpeg){width=50% fig-align="center"}
+
+## WOAH
+
+## Automating a Lit Search
+
+

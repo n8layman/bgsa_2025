@@ -91,7 +91,9 @@ Now we're going to talk about machine learning. Each of the projects I'm going t
 
 ## XKCD's definition {#xkcd}
 
+:::: {layout="[[-1], [1], [-1]]"}
 ![](/assets/img/machine_learning_xkcd.png){fig-align="center"}
+::::
 
 ## Large Language Models {#llms}
 

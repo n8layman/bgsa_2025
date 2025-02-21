@@ -37,3 +37,7 @@ Dick was not only an excellent scientist himself but also came from a long line 
 ::::
 
 {{< include slides/toc.qmd >}}
+{{< include slides/wsu.qmd >}}
+{{< include slides/uidaho.qmd >}}
+{{< include slides/eha.qmd >}}
+{{< include slides/closing.qmd >}}

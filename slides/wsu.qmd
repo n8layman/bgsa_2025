@@ -1,9 +1,33 @@
-## University of Idaho {#eha}
+## Regression-based Machine Learning
 
-## EcoHealth Alliance {#eha}
+:::: {layout="[[-1], [1], [-1]]"}
+![](/assets/img/campanula.webp){width=50% fig-align="center"}
+::::
 
-![](assets/img/onehealth.webp){width=60% fig-align="center"}
+## TDOA {#tdoa}
+
+:::: {layout="[[-1], [1], [-1]]"}
+[![](/assets/img/tdoa.jpg){width=50% fig-align="center"}](https://n8-layman.shinyapps.io/tdoa/)
+::::
 
 :::: {.notes}
-I published two of my chapters in evolution and then went on to accept a post doc position later that year at the University of Idaho where I worked on the evolution of transmissible vaccines and got interested in disease forecasting. In 2021 I moved to my current position at EcoHealth alliance where I am currently a Senior Data Scientist.
+In species where a range expansion has recently occurred, populations farther from the expansion's starting point accumulate are expected to accumulate more derived alleles. This is a result of the repeated bottlenecks associated with  This creates a spatial pattern where derived allele frequencies increase linearly with distance from the origin.
 ::::
+
+## Identifying the refugia
+
+![](/assets/img/refugia.png){width=75% fig-align="center"}
+
+:::: footer
+Westward range expansion from middle latitudes explains the Mississippi River discontinuity in a forest herb of eastern North America@Prior_2020
+::::
+
+## Missisipi River Disconnect
+
+:::: footer
+Westward range expansion from middle latitudes explains the Mississippi River discontinuity in a forest herb of eastern North America@Prior_2020
+::::
+
+:::: {.notes}
+The spatial pattern of genetic diversity best fit the nested origins model, which implies a primarily westward model of stepping-stone colonization
+:::: 

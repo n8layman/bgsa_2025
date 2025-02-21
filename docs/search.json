@@ -31,8 +31,8 @@
     "objectID": "index.html#eha",
     "href": "index.html#eha",
     "title": "Adaptation",
-    "section": "EcoHealth Alliance",
-    "text": "EcoHealth Alliance\n\n\n\n\n\n\nI published two of my chapters in evolution and then went on to accept a post doc position later that year at the University of Idaho where I worked on the evolution of transmissible vaccines and got interested in disease forecasting. In 2021 I moved to my current position at EcoHealth alliance where I am currently a Senior Data Scientist."
+    "section": "Generative AI-based Machine Learning",
+    "text": "Generative AI-based Machine Learning\nEcoHealth Alliance is a nonprofit dedicated to using science-based solutions to prevent pandemics and promote conservation\n\n\n\n\n\n\nEstablished in 1971, EcoHealth Alliance, then known as Wildlife Trust, is a global non-profit organization that uses rigorous and groundbreaking science to protect wildlife while safeguarding human health. We consist of a interdisciplinary team of scientists and scholars—from molecular biologists to field veterinarians, from bioinformaticians to behavioral risk specialists\nThe mission is to identify areas where human activity has increased the risk of zoonotic disease spillover, and the interventions necessary to prevent it."
   },
   {
     "objectID": "index.html#buschlab",
@@ -81,7 +81,7 @@
     "href": "index.html#machine_learning",
     "title": "Adaptation",
     "section": "Machine Learning",
-    "text": "Machine Learning"
+    "text": "Machine Learning\n\n\n\n\n\n\nNow we’re going to talk about machine learning. Each of the projects I’m going to talk about use machine learning in one context or another. Before we get there let’s review what the definition of machine learning is. At the core machine learning is statistical technique to learn patterns from data. It includes quite a lot of things like regression. It’s basically just statistics! But usually it’s lots of statistics."
   },
   {
     "objectID": "slides/toc.html#evolutionary-adaptations",
@@ -122,15 +122,15 @@
     "objectID": "index.html#fluctuating",
     "href": "index.html#fluctuating",
     "title": "Adaptation",
-    "section": "Testing Fluctuating Selection",
-    "text": "Testing Fluctuating Selection\n“The fitness of a lineage in a fluctuating environment is the time average of its fitness over the sequence of static conditions it encounters.”1\n\n\n\n\n\n\nWe evolved the same barcoded library in five static conditions and five fluctuating pairs of these static conditions. We then isolated 889 mutants from the evolution experiments and performed pooled fitness assays in all environments, plus five additional fluctuating environments. B-C After correcting for mean population fitness, we estimate a mutant’s fitness from the slope of its log frequency. D The null hypothesis of additive fitness in a fluctuating environment is represented by the average of the slopes in panels B-C. Non-additive fitness might result if transitions in the fluctuating environment alter fitness of a mutant. E Non-additivity can be visualized by plotting observed fitness in a fluctuating environment vs. the null hypothesis. Mutants with non-additive fitness will appear above or below the one-to-one line."
+    "section": "These Hypotheses can Be Tested",
+    "text": "These Hypotheses can Be Tested\n“The fitness of a lineage in a fluctuating environment is the time average of its fitness over the sequence of static conditions it encounters.”1\n\n\n\n\n\n\nWe evolved the same barcoded library in five static conditions and five fluctuating pairs of these static conditions. We then isolated 889 mutants from the evolution experiments and performed pooled fitness assays in all environments, plus five additional fluctuating environments. B-C After correcting for mean population fitness, we estimate a mutant’s fitness from the slope of its log frequency. D The null hypothesis of additive fitness in a fluctuating environment is represented by the average of the slopes in panels B-C. Non-additive fitness might result if transitions in the fluctuating environment alter fitness of a mutant. E Non-additivity can be visualized by plotting observed fitness in a fluctuating environment vs. the null hypothesis. Mutants with non-additive fitness will appear above or below the one-to-one line."
   },
   {
     "objectID": "index.html#section",
     "href": "index.html#section",
     "title": "Adaptation",
     "section": "",
-    "text": "1. Abreu, C. I., Mathur, S. & Petrov, D. A. Environmental memory alters the fitness effects of adaptive mutations in fluctuating environments. Nat. Ecol. Evol. 8, 1760–1775 (2024)."
+    "text": "I published two of my chapters in evolution and then went on to accept a post doc position later that year at the University of Idaho where I worked on the evolution of transmissible vaccines and got interested in disease forecasting. In 2021 I moved to my current position at EcoHealth alliance where I am currently a Senior Data Scientist."
   },
   {
     "objectID": "slides/toc.html#me",
@@ -165,7 +165,7 @@
     "href": "index.html#transformers",
     "title": "Adaptation",
     "section": "Modeling Language",
-    "text": "Modeling Language\nhttps://medium.com/data-science-at-microsoft/how-large-language-models-work-91c362f5b78f :::: {layout=“[[-1], [1], [-1]]”}  :::: —-\n\n\n\n\n1. Abreu, C. I., Mathur, S. & Petrov, D. A. Environmental memory alters the fitness effects of adaptive mutations in fluctuating environments. Nat. Ecol. Evol. 8, 1760–1775 (2024)."
+    "text": "Modeling Language\n\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\n\n\n\nhttps://medium.com/data-science-at-microsoft/how-large-language-models-work-91c362f5b78f"
   },
   {
     "objectID": "slides/toc.html#references",
@@ -208,5 +208,187 @@
     "title": "",
     "section": "Different Kinds of Mean",
     "text": "Different Kinds of Mean\n\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\n\n\n\nBy the way when we deal with mean fitness over time or generations we tend to use geometric instead of arithmetic mean. To see why just think about what happens if the population fitness every dropped to zero. You’d still have a non-zero arithmetic mean even if though the population has gone extinct. Okay we’re going to transition away from stochastic environments for a minute but will return to it later."
+  },
+  {
+    "objectID": "index.html#different-kinds-of-mean",
+    "href": "index.html#different-kinds-of-mean",
+    "title": "Adaptation",
+    "section": "Different Kinds of Mean",
+    "text": "Different Kinds of Mean\n\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\n\n\n\nBy the way when we deal with mean fitness over time or generations we tend to use geometric instead of arithmetic mean. To see why just think about what happens if the population fitness every dropped to zero. You’d still have a non-zero arithmetic mean even if though the population has gone extinct. Okay we’re going to transition away from stochastic environments for a minute but will return to it later."
+  },
+  {
+    "objectID": "index.html#xkcd",
+    "href": "index.html#xkcd",
+    "title": "Adaptation",
+    "section": "XKCD’s definition",
+    "text": "XKCD’s definition"
+  },
+  {
+    "objectID": "slides/uidaho.html#eha",
+    "href": "slides/uidaho.html#eha",
+    "title": "",
+    "section": "University of Idaho",
+    "text": "University of Idaho\n\nPredicting the fine-scale spatial distribution of zoonotic reservoirs using computer vision"
+  },
+  {
+    "objectID": "slides/uidaho.html#landcover",
+    "href": "slides/uidaho.html#landcover",
+    "title": "",
+    "section": "Land Cover Classification",
+    "text": "Land Cover Classification\n\n\n\n\n\n\nPredicting the fine-scale spatial distribution of zoonotic reservoirs using computer vision1\n\n\nWe developed a weakly supervised machine learning framework capable of segmentating land cover and classifying buildings using aerial photographs."
+  },
+  {
+    "objectID": "slides/uidaho.html#reservoir",
+    "href": "slides/uidaho.html#reservoir",
+    "title": "",
+    "section": "Zoonotic Reservoirs",
+    "text": "Zoonotic Reservoirs\n\n\n\n\n\n\nPredicting the fine-scale spatial distribution of zoonotic reservoirs using computer vision1\n\n\nThe idea was to use to combine these fine-scale resolution predictors with trapping data. That could let us use another machine learning technique, boosted regression trees, to identify where in the villages the zoonotic reservoir was most likely to be found. Which could be useful for coming up within mitigation strategies or evaluating the drivers of disease risk."
+  },
+  {
+    "objectID": "slides/uidaho.html#reservoir_features",
+    "href": "slides/uidaho.html#reservoir_features",
+    "title": "",
+    "section": "Fine-scale Predictors",
+    "text": "Fine-scale Predictors\n\n\n\n\n\n\nPredicting the fine-scale spatial distribution of zoonotic reservoirs using computer vision1\n\n\nA few interesting things we found is that mastomys natalensis, at least in these three villages, tend to be found close to buildings. Less than 100 meters. The building type didn’t seem to matter much. We also noticed an association with precipitation 5-6 months prior - something shown previously to result from birth pulses following the rainy season."
+  },
+  {
+    "objectID": "slides/uidaho.html#references",
+    "href": "slides/uidaho.html#references",
+    "title": "",
+    "section": "",
+    "text": "1. Layman, N. C. et al. Predicting the fine‐scale spatial distribution of zoonotic reservoirs using computer vision. Ecology Letters 26, 1974–1986 (2023)."
+  },
+  {
+    "objectID": "slides/uidaho.html#uidaho",
+    "href": "slides/uidaho.html#uidaho",
+    "title": "",
+    "section": "Uidaho",
+    "text": "Uidaho"
+  },
+  {
+    "objectID": "index.html#uidaho",
+    "href": "index.html#uidaho",
+    "title": "Adaptation",
+    "section": "Classification-based Machine Learning",
+    "text": "Classification-based Machine Learning"
+  },
+  {
+    "objectID": "index.html#landcover",
+    "href": "index.html#landcover",
+    "title": "Adaptation",
+    "section": "Land Cover Classification",
+    "text": "Land Cover Classification\n\n\n\n\n\n\nPredicting the fine-scale spatial distribution of zoonotic reservoirs using computer vision2\n\n\nWe developed a weakly supervised machine learning framework capable of segmentating land cover and classifying buildings using aerial photographs."
+  },
+  {
+    "objectID": "index.html#reservoir",
+    "href": "index.html#reservoir",
+    "title": "Adaptation",
+    "section": "Zoonotic Reservoirs",
+    "text": "Zoonotic Reservoirs\n\n\n\n\n\n\nPredicting the fine-scale spatial distribution of zoonotic reservoirs using computer vision2\n\n\nThe idea was to use to combine these fine-scale resolution predictors with trapping data. That could let us use another machine learning technique, boosted regression trees, to identify where in the villages the zoonotic reservoir was most likely to be found. Which could be useful for coming up within mitigation strategies or evaluating the drivers of disease risk."
+  },
+  {
+    "objectID": "index.html#reservoir_features",
+    "href": "index.html#reservoir_features",
+    "title": "Adaptation",
+    "section": "Fine-scale Predictors",
+    "text": "Fine-scale Predictors\n\n\n\n\n\n\nPredicting the fine-scale spatial distribution of zoonotic reservoirs using computer vision2\n\n\nA few interesting things we found is that mastomys natalensis, at least in these three villages, tend to be found close to buildings. Less than 100 meters. The building type didn’t seem to matter much. We also noticed an association with precipitation 5-6 months prior - something shown previously to result from birth pulses following the rainy season."
+  },
+  {
+    "objectID": "slides/wsu.html#wsu",
+    "href": "slides/wsu.html#wsu",
+    "title": "",
+    "section": "WSU",
+    "text": "WSU"
+  },
+  {
+    "objectID": "slides/wsu.html#tdoa",
+    "href": "slides/wsu.html#tdoa",
+    "title": "",
+    "section": "TDOA",
+    "text": "TDOA\n\n\n\n\n\n\nIn species where a range expansion has recently occurred, repeated founder events will cause a linear increase in the frequency of derived alleles for populations that are increasingly far from the expansion source on the landscape. We used a simple iterative regression-based machine learning algorithm to choose the most likely point in space that best fit the observed patterns of derived allele frequence as a function of geographical distance from that point."
+  },
+  {
+    "objectID": "slides/wsu.html#identifying-the-refugia",
+    "href": "slides/wsu.html#identifying-the-refugia",
+    "title": "",
+    "section": "Identifying the refugia",
+    "text": "Identifying the refugia\n\n\n\n\n\n\nWestward range expansion from middle latitudes explains the Mississippi River discontinuity in a forest herb of eastern North America@Prior_2020"
+  },
+  {
+    "objectID": "slides/wsu.html#missisipi-river-disconnect",
+    "href": "slides/wsu.html#missisipi-river-disconnect",
+    "title": "",
+    "section": "Missisipi River Disconnect",
+    "text": "Missisipi River Disconnect\n\nWestward range expansion from middle latitudes explains the Mississippi River discontinuity in a forest herb of eastern North America@Prior_2020\n\n\nThe spatial pattern of genetic diversity best fit the nested origins model, which implies a primarily westward model of stepping-stone colonization"
+  },
+  {
+    "objectID": "slides/wsu.html#regression-based-machine-learning",
+    "href": "slides/wsu.html#regression-based-machine-learning",
+    "title": "",
+    "section": "Regression-based Machine Learning",
+    "text": "Regression-based Machine Learning"
+  },
+  {
+    "objectID": "index.html#regression-based-machine-learning",
+    "href": "index.html#regression-based-machine-learning",
+    "title": "Adaptation",
+    "section": "Regression-based Machine Learning",
+    "text": "Regression-based Machine Learning"
+  },
+  {
+    "objectID": "index.html#tdoa",
+    "href": "index.html#tdoa",
+    "title": "Adaptation",
+    "section": "TDOA",
+    "text": "TDOA\n\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\n\n\n\nIn species where a range expansion has recently occurred, populations farther from the expansion’s starting point accumulate are expected to accumulate more derived alleles. This is a result of the repeated bottlenecks associated with This creates a spatial pattern where derived allele frequencies increase linearly with distance from the origin."
+  },
+  {
+    "objectID": "index.html#identifying-the-refugia",
+    "href": "index.html#identifying-the-refugia",
+    "title": "Adaptation",
+    "section": "Identifying the refugia",
+    "text": "Identifying the refugia\n\n\n\n\n\n\nWestward range expansion from middle latitudes explains the Mississippi River discontinuity in a forest herb of eastern North America@Prior_2020"
+  },
+  {
+    "objectID": "index.html#missisipi-river-disconnect",
+    "href": "index.html#missisipi-river-disconnect",
+    "title": "Adaptation",
+    "section": "Missisipi River Disconnect",
+    "text": "Missisipi River Disconnect\n\nWestward range expansion from middle latitudes explains the Mississippi River discontinuity in a forest herb of eastern North America@Prior_2020\n\n\nThe spatial pattern of genetic diversity best fit the nested origins model, which implies a primarily westward model of stepping-stone colonization"
+  },
+  {
+    "objectID": "slides/eha.html#eha",
+    "href": "slides/eha.html#eha",
+    "title": "",
+    "section": "EcoHealth Alliance",
+    "text": "EcoHealth Alliance\nEcoHealth Alliance is a nonprofit dedicated to using science-based solutions to prevent pandemics and promote conservation\n\n\n\n\n\n\nEstablished in 1971, EcoHealth Alliance, then known as Wildlife Trust, is a global non-profit organization that uses rigorous and groundbreaking science to protect wildlife while safeguarding human health. We consist of a interdisciplinary team of scientists and scholars—from molecular biologists to field veterinarians, from bioinformaticians to behavioral risk specialists\nThe mission is to identify areas where human activity has increased the risk of zoonotic disease spillover, and the interventions necessary to prevent it."
+  },
+  {
+    "objectID": "slides/eha.html#one-health",
+    "href": "slides/eha.html#one-health",
+    "title": "",
+    "section": "One Health",
+    "text": "One Health"
+  },
+  {
+    "objectID": "slides/eha.html#computational-science-team",
+    "href": "slides/eha.html#computational-science-team",
+    "title": "",
+    "section": "Computational Science Team",
+    "text": "Computational Science Team"
+  },
+  {
+    "objectID": "index.html#one-health",
+    "href": "index.html#one-health",
+    "title": "Adaptation",
+    "section": "One Health",
+    "text": "One Health"
+  },
+  {
+    "objectID": "index.html#computational-science-team",
+    "href": "index.html#computational-science-team",
+    "title": "Adaptation",
+    "section": "Computational Science Team",
+    "text": "Computational Science Team\n\n\n\n\n\n\n\n\n\n1. Abreu, C. I., Mathur, S. & Petrov, D. A. Environmental memory alters the fitness effects of adaptive mutations in fluctuating environments. Nat. Ecol. Evol. 8, 1760–1775 (2024).\n\n\n2. Layman, N. C. et al. Predicting the fine‐scale spatial distribution of zoonotic reservoirs using computer vision. Ecology Letters 26, 1974–1986 (2023)."
   }
 ]
