@@ -104,7 +104,7 @@ More importantly, an generative AI is a based on massively complicated statistic
 ## But what about being replaced by AI? 
 
 :::: {layout="[[-1], [1], [-1]]" .center}
-|     AI is a tool to help people answer questions. It's as useful as the p-value. But we are the people who [ask]{style="color:red;"} questions. 
+|     AI is a tool to help people answer questions, but we are the people who [ask]{style="color:red;"} questions. 
 :::: 
 
 ## My advice
@@ -152,10 +152,9 @@ More importantly, an generative AI is a based on massively complicated statistic
 
 4. Advisor Relationship: Choose an advisor you can collaborate with effectively, as their mentorship profoundly impacts your PhD experience. Proactively nurture this relationship to navigate challenges.
 
-## Advice from my friends
 :::: {.fragment .fade-up}
 ::: {.center-slide-text style="font-size: 400%;"}
-**Be curious**
+Thanks for having me!
 :::
 :::
 
