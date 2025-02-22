@@ -15,9 +15,9 @@
 But it can sure feel like this getting into science right now right? For anyone colorblind I apologize - there are no overlapping colors between the legend and the diagram.
 ::::
 
-## Biologists are plastic
+## 
 
-![](/assets/img/transferable.png){width=70% fig-align="center"}
+![](/assets/img/transferable.png){width=80% fig-align="center"}
 
 ## For example,
 
@@ -107,23 +107,6 @@ More importantly, an generative AI is a based on massively complicated statistic
 |     AI is a tool to help people answer questions, but we are the people who [ask]{style="color:red;"} questions. 
 :::: 
 
-## My advice
-**Doing science beyond grad school involves**
-
-1. Learn project management!
-2. Leveraging your network
-3. Looking to the future
-
-**Useful tools**
-
-- [Statistical Rethinking](https://github.com/rmcelreath/stat_rethinking_2024)
-  
-- [Project management with GitHub](https://docs.github.com/en/issues/tracking-your-work-with-issues/configuring-issues/planning-and-tracking-work-for-your-team-or-project)
-  
-- [Learn git](https://jvns.ca/blog/2024/04/25/new-zine--how-git-works-/)
-  
-- [Learn markdown](https://www.markdowntutorial.com/)
-
 ## Advice from my friends
 
 **Focus on transferrable skills like communication, technical writing, data viz, coding, problem solving.**
@@ -152,11 +135,21 @@ More importantly, an generative AI is a based on massively complicated statistic
 
 4. Advisor Relationship: Choose an advisor you can collaborate with effectively, as their mentorship profoundly impacts your PhD experience. Proactively nurture this relationship to navigate challenges.
 
-:::: {.fragment .fade-up}
-::: {.center-slide-text style="font-size: 400%;"}
-Thanks for having me!
-:::
-:::
+## My advice
+**Doing science beyond grad school involves**
 
+1. Learn project management!
+2. Leveraging your network
+3. Looking to the future
+
+**Useful tools**
+
+- [Statistical Rethinking](https://github.com/rmcelreath/stat_rethinking_2024)
+  
+- [Project management with GitHub](https://docs.github.com/en/issues/tracking-your-work-with-issues/configuring-issues/planning-and-tracking-work-for-your-team-or-project)
+  
+- [Learn git](https://jvns.ca/blog/2024/04/25/new-zine--how-git-works-/)
+  
+- [Learn markdown](https://www.markdowntutorial.com/)
 
 ## References
