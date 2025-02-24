@@ -56,7 +56,7 @@ Quantifying Underreporting in Wildlife Disease Surveillance
 
 ![](/assets/img/woah_simex.png){width=90% fig-align="center"}
 
-## Outline {#outline}
+## Outline
 
 1. About me
 2. Adaptation in stochastic environments  

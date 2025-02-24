@@ -578,7 +578,7 @@
     "href": "index.html#advice-from-my-friends-3",
     "title": "Adaptation",
     "section": "Advice from my friends",
-    "text": "Advice from my friends\n\nSelf-Evaluated Workload: Prioritize balance and adjust work hours based on personal assessment, not peer pressure or toxic “overwork” culture.\nCritical Analysis: Always question why specific methods or techniques are used in research; avoid adopting approaches solely because they’re precedent—understand their rationale.\nWorkflow Investment: Develop and maintain efficient workflows tailored to your needs, even if it requires upfront time.\nAdvisor Relationship: Choose an advisor you can collaborate with effectively, as their mentorship profoundly impacts your PhD experience. Proactively nurture this relationship to navigate challenges.\n\n\n\nThanks for having me!"
+    "text": "Advice from my friends\n\nSelf-Evaluated Workload: Prioritize balance and adjust work hours based on personal assessment, not peer pressure or toxic “overwork” culture.\nCritical Analysis: Always question why specific methods or techniques are used in research; avoid adopting approaches solely because they’re precedent—understand their rationale.\nWorkflow Investment: Develop and maintain efficient workflows tailored to your needs, even if it requires upfront time.\nAdvisor Relationship: Choose an advisor you can collaborate with effectively, as their mentorship profoundly impacts your PhD experience. Proactively nurture this relationship to navigate challenges."
   },
   {
     "objectID": "index.html#advice-from-my-friends-4",
@@ -696,6 +696,13 @@
     "objectID": "slides/eha.html#outline",
     "href": "slides/eha.html#outline",
     "title": "",
+    "section": "Outline",
+    "text": "Outline\n\nAbout me\nAdaptation in stochastic environments\n\nSome of my ML projects\n\nRegression-based Machine Learning (WSU)\nClassification-based Machine Learning (UIdaho)\nGenerative AI-based Machine Learning (EHA)\n\nClosing thoughts\nQuestions"
+  },
+  {
+    "objectID": "index.html#outline-2",
+    "href": "index.html#outline-2",
+    "title": "Adaptation",
     "section": "Outline",
     "text": "Outline\n\nAbout me\nAdaptation in stochastic environments\n\nSome of my ML projects\n\nRegression-based Machine Learning (WSU)\nClassification-based Machine Learning (UIdaho)\nGenerative AI-based Machine Learning (EHA)\n\nClosing thoughts\nQuestions"
   }
